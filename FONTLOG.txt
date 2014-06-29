@@ -11,6 +11,9 @@ Amika fonts cover Latin + Devanagari.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+29 June 2012 (Pablo Impallari) Amika v0.002
+- Added a few initial glyphs
+
 28 June 2012 (Pablo Impallari) Amika v0.001
 - Initial Beta
 
