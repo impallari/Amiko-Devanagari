@@ -7,7 +7,8 @@ derivative works.
 
 Basic Font Information
 
-Amika fonts cover Latin + Devanagari.
+Amika fonts are a set of clean and utilitarian fonts supporting Latin and Devanagari scripts.
+They are tailored for body text on the web, and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
