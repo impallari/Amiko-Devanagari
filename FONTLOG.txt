@@ -12,7 +12,11 @@ They are tailored for body text on the web, and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
-30 June 2012 (Pablo Impallari) Amika v0.002
+2 July 2012 (Pablo Impallari) Amika v0.004
+- Added a few initial glyphs
+- Refining the existing ones
+
+30 June 2012 (Pablo Impallari) Amika v0.003
 - Added a few initial glyphs
 - Refining the existing ones
 

@@ -1,0 +1,6 @@
+Notes:
+
+- Improve /d /p to mach /h /m /n /u jonins 
+- Balance /d /p for better stability
+
+- Improve /O contours
