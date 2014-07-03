@@ -1,3 +1,9 @@
+Current Glyphs:
+
+D E F H I L N O T U V
+d e h i l m n o p u v
+वा प र न ण व त क इ
+
 Notes:
 
 - Improve /d /p to mach /h /m /n /u jonins 
