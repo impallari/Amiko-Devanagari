@@ -2,7 +2,7 @@ Current Glyphs:
 
 D E F H I L N O T U V
 d e h i l m n o p u v
-वा प र न ण व त क इ
+वा य प ष फ र न म भ ग ण व ब त क ड इ ह 
 
 Notes:
 
@@ -10,3 +10,4 @@ Notes:
 - Balance /d /p for better stability
 
 - Improve /O contours
+
