@@ -44,3 +44,8 @@ E: impallari@gmail.com
 W: http://www.impallari.com
 D: Designer
 
+N: Rodrigo Fuenzalida
+E: fuenzarodrigo@gmail.com
+W: http://www.impallari.com
+D: Designer
+
