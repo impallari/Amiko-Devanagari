@@ -1,18 +1,28 @@
-Current Glyphs:
+---------------------------------------------------------------
+Regular:
+---------------------------------------------------------------
 
-D E F H I L N O T U V
-d e h i l m n o p u v
-वा य प ष फ र न म भ ग ण व ब त क ड इ ह 
+Regular Current Glyphs:
+A D E F H I L N O T U V
+a d e h i l m n o p u v
+य प ष फ र न म भ ग ण व ब त क ड इ ई ह ा ि
 
+Regular Updates in Regular v8:
+Added Latin:  /A /a
+Added Deva: /iideva /isigndeva
 
-Notes Regular:
-
-- Improve /d /p to mach /h /m /n /u jonins 
+Regular Notes:
+- Improve /a /d /p to mach /h /m /n /u jonins 
 - Balance /d /p for better stability
 - Improve /O contours
-
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
-Notes Bold:
-- Rodrigo writes here....
+---------------------------------------------------------------
+Bold:
+---------------------------------------------------------------
 
+Bold Current Glyphs:
+d e h i l m n o p u v
+
+Bold Notes:
+- Rodrigo writes here
