@@ -12,6 +12,10 @@ They are tailored for body text on the web, and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+8 July 2012 (Rodrigo Fuenzalida) Amika Bold v002:
+- Started the work on the latin characters for the bold 
+weight of Amika. 
+
 7 July 2012 (Pablo Impallari) Amika v007:
 Improvements based on feedback by Pria Ravichandran
 /bhadeva and /madeva: Horizontal moved down
