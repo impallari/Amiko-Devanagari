@@ -13,4 +13,4 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 
 ## Authors
 
-Pablo Impallari and Rodrigo Fuenzalida
+[Pablo Impallari](http://www.impallari.com) and [Rodrigo Fuenzalida](http://www.rfuenzalida.com)
