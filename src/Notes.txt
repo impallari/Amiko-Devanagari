@@ -5,7 +5,7 @@ Regular:
 Regular Current Glyphs:
 A D E F H I L N O T U V
 a d e h i l m n o p u v
-य प ष फ र स न म भ ग ण व ब त क ड इ ई ह
+य थ प ष फ र स न म भ ग ण व ब त ल क ड ङ इ झ ई ह 
  ा ी ि 
 
 Regular Notes:
@@ -13,6 +13,9 @@ Regular Notes:
 - Balance /d /p for better stability
 - Improve /O contours
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
+
+Updates to v009 h:
+Added Deva: /jhadeva /ngadeva /thadeva /ladeva
 
 ---------------------------------------------------------------
 Bold:
