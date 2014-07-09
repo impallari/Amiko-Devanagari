@@ -12,6 +12,13 @@ They are tailored for body text on the web, and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+9 July 2012 (Rodrigo Fuenzalida) Amika Bold v003:
+- Made changes on /h /i /m /n /u so the width of the 
+characters satays the same on both weights.
+- Started to work on latin caps.
+- First tests with the bold weight on some of
+the Devanagari characters.
+
 8 July 2012 (Rodrigo Fuenzalida) Amika Bold v002:
 - Started the work on the latin characters for the bold 
 weight of Amika. 
