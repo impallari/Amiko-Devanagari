@@ -14,8 +14,12 @@ Regular Notes:
 - Improve /O contours
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
-Updates to v009 h:
+Updates to v0.010 h:
 Added Deva: /jhadeva /ngadeva /thadeva /ladeva
+Multiple improvements based on Erin McLaughlin feedback
+
+
+
 
 ---------------------------------------------------------------
 Bold:
