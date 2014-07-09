@@ -5,11 +5,8 @@ Regular:
 Regular Current Glyphs:
 A D E F H I L N O T U V
 a d e h i l m n o p u v
-य प ष फ र न म भ ग ण व ब त क ड इ ई ह ा ि
-
-Regular Updates in Regular v8:
-Added Latin:  /A /a
-Added Deva: /iideva /isigndeva
+य प ष फ र स न म भ ग ण व ब त क ड इ ई ह
+ ा ी ि 
 
 Regular Notes:
 - Improve /a /d /p to mach /h /m /n /u jonins 
@@ -22,6 +19,7 @@ Bold:
 ---------------------------------------------------------------
 
 Bold Current Glyphs:
+D E F H I L N O T U V
 d e h i l m n o p u v
 
 Bold Notes:
