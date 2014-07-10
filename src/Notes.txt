@@ -5,21 +5,14 @@ Regular:
 Regular Current Glyphs:
 A D E F H I L N O T U V
 a d e h i l m n o p u v
-य थ प ष फ र स न म भ ग ण व ब त ल क ड ङ इ झ ई ह 
- ा ी ि 
+य ॺ थ प ष फ र स न म भ ग ण व ब त ल क ड ङ इ झ ई ह ट द ढ ठ
+ ा ी ि । ॥
 
 Regular Notes:
 - Improve /a /d /p to mach /h /m /n /u jonins 
 - Balance /d /p for better stability
 - Improve /O contours
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
-
-Updates to v0.010 h:
-Added Deva: /jhadeva /ngadeva /thadeva /ladeva
-Multiple improvements based on Erin McLaughlin feedback
-
-
-
 
 ---------------------------------------------------------------
 Bold:

@@ -1,8 +1,8 @@
 Amika Fonts
 ======================
 
-Amika fonts are a set of clean and utilitarian fonts supporting Latin and Devanagari scripts.
-They are tailored for body text on the web, and low resolution cellphones.
+Amika fonts are a set of clean, utilitarian fonts, supporting Latin and Devanagari scripts.
+They are tailored for body text on the web and low resolution cellphones.
 
 Work in progress... 
 

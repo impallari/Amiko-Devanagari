@@ -7,21 +7,20 @@ derivative works.
 
 Basic Font Information
 
-Amika fonts are a set of clean and utilitarian fonts supporting Latin and Devanagari scripts.
-They are tailored for body text on the web, and low resolution cellphones.
+Amika fonts are a set of clean, utilitarian fonts, supporting Latin and Devanagari scripts.
+They are tailored for body text on the web and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
-9 July 2012 (Palo Impallari, Rodrigo Fuenzalida) Amika Regular v0.008 and Bold v0.003:
-Regular (Pablo):
-- Added Latin Regular:  /A /a
-- Tweaked: /space
-- Added Devanagari Regular: /iideva /isigndeva /iisigndeva /sadeva
-- Tweaked Devanagari  Regular: /radeva
-Bold (Rodrigo):
-- Changes on Latin Bold /h /i /m /n /u.
-- Started to work on the Latin Bold Uppercase.
-- First tests with Devanagari Bold glyphs.
+9 July 2012 (Palo Impallari, Rodrigo Fuenzalida) Amika Regular v0.011 and Bold v0.003:
+- Regular (Pablo):
+Multiple improvements based on Erin McLaughlin feedback
+Added: /A /a  /iideva /isigndeva /iisigndeva /sadeva /jhadeva 
+/ngadeva /thadeva /ladeva /ttadeva /dadeva /ddhadeva /tthadeva 
+/yaheavydeva /dottedcircle /danda /dbldanda
+- Bold (Rodrigo):
+Changes on Latin Bold /h /i /m /n /u.
+Started to work on the Latin Uppercase.
 
 8 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.002:
 - Started the work on the latin characters for the Bold weight. 
