@@ -1,0 +1,27 @@
+Hi Pablo!
+
+I thought I'd give some suggestions for your project, if you're interested!
+
+I'm looking at the files on your site from today - v 008
+
+- The thing that looks the most out of place to me is Ka (क). I feel that it's too wide. Even though it is tempting to use a "Va" on both sides, flipped, in every font and historical example I'm aware of, the shapes are drawn smaller, so that the final Ka doesn't look as wide as 2 letters. I'd suggest altering your shapes a bit and making it more narrow.
+
+- Ga (ग) looks a bit narrow to me. The verticals should be a bit further apart. Not quite as far apart as the Ma, but somewhere in-between.
+
+- I think that Na (न) could benefit from being a tiny bit wider. To me, it looks small in comparison to other letters.
+- I've seen several recent designs made by native speakers in which Nna (ण) has a bit more space in between the two sides, than in yours. I'm not sure how important that is. Also, the left loop side of the character is often a bit more narrow than the "Pa"
+
+- I think Pria may have suggested that the verticals of Ma, Ga, etc. should be different widths? I actually don't think that is good practice. I have never seen that in a font myself. I think it's important for hinting that the stems are of uniform width. It also makes sense, in terms of calligraphic history.
+
+- One deceiving trend in Devanagari fonts is that it's common to make the horizontal top bar quite a bit thinner than the vertical strokes, even though in calligraphy, this bar was nearly as thick as the verticals (due to the angled pen stress). I believe this trend started in order to make Devanagari look less dark, and to give more vertical space for font designers.? Anyway - while I think that the thickness of your curves is looking good, the horizontals on Na, Ma, Bha, and Ta look thin to me - because you matched the top bar height. It's totally okay to make the horizontals within the design thicker than the top bar. I think they should match the thickness of your curved strokes!
+
+-  I think you will need to change your font metrics a bit. Open Lohit and look for the tallest characters. ड्ड औ You'll need to make sure you have enough space for these.
+
+-If your goal is for this to be readable at small sizes (for which you used loose spacing - which is good!) you might want to consider making your "I" vowel sign (and the other vowel marks to come) a bit taller than you have room for now. They might be more visible that way.
+
+- You'll want to space your "I" and "Aa" vowel signs so that the vertical is centered. If you look at a spacing string like this: पपपिपपप you won't want that gap after the "I" sign to look larger than the gaps between "Pa" characters.
+
+-One minor designy suggestion: I really like some of the slightly more angular look you have going on in the Da, Ha, I, Pa and Ra. But the curves of Ka and Va are quite round. I wonder if you can find a slightly more angular shape for these to have them relate more? Not necessary, just a thought. (I'll attach an image of Monotype's classic Devanagari design that has a slightly angular Va)
+
+Great work so far. Good luck!!!!
+-Erin
