@@ -19,4 +19,4 @@ Work in progress...
 ## Thanks
 
 - We want to thank Pria Ravichandran, Erin McLaughlin, Girish Dalvi and all those who have shared their knowledge with us, helping us to review and improve the Amika fonts.
-- We want to thank the Fedora's Lohit Font Project developers. Amika's Devanagari charset and Devanagari Open-Type feature code is based on it.
+- We want to thank the Pravin Satpute and the Fedora's Lohit Font Project developers. Amika's Devanagari charset and Devanagari Open-Type feature code is based on it.
