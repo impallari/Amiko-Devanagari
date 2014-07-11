@@ -29,8 +29,17 @@ Bold:
 ---------------------------------------------------------------
 
 Bold Current Glyphs:
-D E F H I L N O T U V
-d e h i l m n o p u v
+A D E F H I L N O T U V
+a d e h i l m n o p u v
+ग भ ग़
+ल 
+ब क क़
+ज ज़
+फ़
+द ढ़  
+ड ङ इ ई झ ह 
+ए
+ ा ी ि । ॥ ॎ
 
 Bold Notes:
-- Rodrigo writes here
+- Testing the contrast for better rendering in the bold version.

@@ -12,6 +12,16 @@ They are tailored for body text on the web and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+11 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.006
+- Bold (Rodrigo):
+- All latin characters now have their bold version.
+- Started to test bold on the Devanagari, added:
+/aasigndeva /badeva /bhadeva /dadeva /danda /dbldanda
+/ddadeva /dddhadeva /ddhadeva /dottedcircle /edeva 
+/eprishthamatrasigndeva /fadeva /gadeva /ghhadeva /hadeva
+/ideva /iideva /iisigndeva /isigndeva /jadeva /jhadeva
+/kadeva /ladeva /ngadeva /qadeva /rhadeva /zadeva
+
 10 July 2012 (Palo Impallari) Amika Regular v0.012
 - Regular (Pablo):
 Added: /nnnadeva /ghhadeva /rhadeva /ddhadeva 
