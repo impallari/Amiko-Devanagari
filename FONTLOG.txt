@@ -12,6 +12,15 @@ They are tailored for body text on the web and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+11 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.007
+- Bold (Rodrigo):
+- Tweaked: /badeva/kadeva/ladeva/qadeva
+- Added: /madeva /nadeva /nnadeva /nnnadeva /nyadeva
+/ooesigndeva /padeva /phadeva /qadeva /radeva /rradeva
+/sadeva /ssadeva /tadeva /thadeva /ttadeva /tthadeva
+/vadeva /yadeva /yaheavydeva /yyadeva
+
+
 11 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.006
 - Bold (Rodrigo):
 - All latin characters now have their bold version.
