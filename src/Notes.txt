@@ -9,7 +9,7 @@ a d e h i l m n o p u v
 र स ऱ 
 त ल 
 व ब क क़ 
-ज ज़
+च ज ज़ ॹ
 प ष फ ण फ़
 ट ठ ढ द ढ़ 
 ङ ड इ ई झ ह ड़ 
@@ -17,6 +17,15 @@ a d e h i l m n o p u v
 ञ
 ए
  ा ी ि । ॥ ॎ
+
+Regular v0.013:
+- Added:
+/cadeva
+/zhadeva
+
+-Tweaked:
+/ddadeva /dddhadeva /ddhadeva /zadeva 
+/rhadeva /yyadeva /jadeva
 
 Regular Notes:
 - Improve /a /d /p to mach /h /m /n /u jonins 
