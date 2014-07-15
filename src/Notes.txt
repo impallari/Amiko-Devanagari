@@ -4,7 +4,8 @@ Regular:
 
 Regular Current Glyphs:
 A D E F H I L N O T U V
-a d e h i l m n o p u v
+a b c d e f h i j k l m n 
+o p q r s t u v w x y z 
 ग म भ न ग़ ऩ
 र स ऱ 
 त ल 
@@ -22,12 +23,15 @@ Regular v0.013:
 - Added:
 /cadeva
 /zhadeva
+/b/c/f/j/k/q/r/s/t/w/x/y/z
 
 -Tweaked:
 /ddadeva /dddhadeva /ddhadeva /zadeva 
 /rhadeva /yyadeva /jadeva
+/v
 
 Regular Notes:
+- Check the newly added glyphs
 - Improve /a /d /p to mach /h /m /n /u jonins 
 - Balance /d /p for better stability
 - Improve /O contours
