@@ -4,8 +4,7 @@ Regular:
 
 Regular Current Glyphs:
 A D E F H I L N O T U V
-a b c d e f h i j k l m n 
-o p q r s t u v w x y z 
+a b c d e f h i j k l m n o p q r s t u v w x y z 
 ग म भ न ग़ ऩ
 र स ऱ 
 त ल 
@@ -21,9 +20,9 @@ o p q r s t u v w x y z
 
 Regular v0.013:
 - Added:
+/b /c /f /j /k /q /r /s /t /w /x /y /z
 /cadeva
 /zhadeva
-/b/c/f/j/k/q/r/s/t/w/x/y/z
 
 -Tweaked:
 /ddadeva /dddhadeva /ddhadeva /zadeva 
@@ -31,9 +30,12 @@ Regular v0.013:
 /v
 
 Regular Notes:
-- Check the newly added glyphs
+- /a to /w revised.
+- /x /y /z not revised yet, they probably need to be a bit wider.
+
+To-Do Regular:
+- Balance /d /p /p /q for better stability
 - Improve /a /d /p to mach /h /m /n /u jonins 
-- Balance /d /p for better stability
 - Improve /O contours
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
@@ -58,4 +60,4 @@ a d e h i l m n o p u v
  ा ी ि । ॥ ॎ
 
 Bold Notes:
-- All the regular characters made so far, have now their bold version.
+- Add the new glyphs that where added to the regular
