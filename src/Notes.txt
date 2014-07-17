@@ -1,4 +1,4 @@
----------------------------------------------------------------
+ ---------------------------------------------------------------
 Regular:
 ---------------------------------------------------------------
 
@@ -18,12 +18,18 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ए
  ा ी ि । ॥ ॎ
 
+Regular v0.016:
+- Tweaked:
+/a /e /g /s /x /z
+/B /C /G /I /K /S /Z
+
 Regular v0.015:
 - Added:
-/g/B/C/G/J/K/M/P/Q/R/S/W/Z
+/g
+/B /C /G /J /K /M /P /Q /R /S /W /Z
 
 - Tweaked:
-/q/x/y/z
+/q /x /y /z
 
 Regular v0.013:
 - Added:
@@ -36,12 +42,9 @@ Regular v0.013:
 /rhadeva /yyadeva /jadeva
 /v
 
-Regular Notes:
-- /a to /z revised.
-
 To-Do Regular:
-- Balance /d /p /p /q for better stability
-- Improve /a /d /p to mach /h /m /n /u jonins 
+- Balance /b /d /p /q for better stability
+- Improve /a /b /d /p /q /u to mach /h /m /n /u jonins 
 - Improve /O contours
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
@@ -67,9 +70,12 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 
 Bold V0.08:
 - Added:
-/b/c/f/g/j/k/q/r/s/t/w/B/C/G/J/K/M/P/Q/R/S/W/Z 
+/b /c /f /g /j /k /q /r /s /t /w
+/B /C /G /J /K /M /P /Q /R /S /W /Z 
+
 - Tweaked:
-/i/v/x/y/z
+/i /v /x /y /z
 
 Bold Notes:
-- Add the new glyphs that where added to the regular
+- Add Regular v0.016 tweaks into the Bold
+- Add the new glyphs
