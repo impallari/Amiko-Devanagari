@@ -1,3 +1,6 @@
+#Some Changes by Pablo:
+# /nonmarkingreturn renamed to /CR
+
 
 # GSUB 
 
@@ -1313,7 +1316,7 @@ feature blwm {
 } blwm;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\.notdef \nonmarkingreturn \space \exclam \quotedbl \numbersign 
+@GDEF_Simple = [\.notdef \CR \space \exclam \quotedbl \numbersign 
 	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
 	\comma \hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight 
 	\nine \colon \semicolon \less \equal \greater \question \at \bracketleft 
