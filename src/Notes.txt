@@ -18,36 +18,6 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ए
  ा ी ि । ॥ ॎ
 
-Regular v0.017:
-- Added:
-/X /Y 
-- Tweaked:
-/J /U /W
-
-Regular v0.016:
-- Tweaked:
-/a /e /g /s /x /z
-/B /C /G /I /K /S /Z
-
-Regular v0.015:
-- Added:
-/g
-/B /C /G /J /K /M /P /Q /R /S /W /Z
-
-- Tweaked:
-/q /x /y /z
-
-Regular v0.013:
-- Added:
-/b /c /f /j /k /q /r /s /t /w /x /y /z
-/cadeva
-/zhadeva
-
--Tweaked:
-/ddadeva /dddhadeva /ddhadeva /zadeva 
-/rhadeva /yyadeva /jadeva
-/v
-
 To-Do Regular:
 - Balance /b /d /p /q for better stability
 - Improve /a /b /d /p /q /u to mach /h /m /n /u jonins 
@@ -59,13 +29,13 @@ Bold:
 ---------------------------------------------------------------
 
 Bold Current Glyphs:
-A B C D E F G H I J K L M N O P Q R S T U V W Z
-a b c d e f g h i j k l m n o p q r s t u v w x y z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ग म भ न ग़ ऩ
 र स ऱ 
 त ल 
 व ब क क़ 
-ज ज़
+च ज ज़ ॹ
 प ष फ ण फ़
 ट ठ ढ द ढ़ 
 ङ ड इ ई झ ह ड़ 
@@ -74,14 +44,4 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ए
  ा ी ि । ॥ ॎ
 
-Bold V0.08:
-- Added:
-/b /c /f /g /j /k /q /r /s /t /w
-/B /C /G /J /K /M /P /Q /R /S /W /Z 
 
-- Tweaked:
-/i /v /x /y /z
-
-Bold Notes:
-- Add Regular v0.016 tweaks into the Bold
-- Add the new glyphs

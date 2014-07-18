@@ -12,51 +12,56 @@ They are tailored for body text on the web and low resolution cellphones.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
-11 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.007
-- Bold (Rodrigo):
-- Tweaked: /badeva/kadeva/ladeva/qadeva
-- Added: /madeva /nadeva /nnadeva /nnnadeva /nyadeva
+
+18 July 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.017 and Bold v0.010
+Regular:
+- Added /B /C /G /J /K /M /P /Q /R /S /W /X /Y /Z /b /c /f /g /j /k /q /r /s /t /w /x /y /z
+- Added /cadeva /zhadeva
+- Tweaked /J /U /W /B /C /G /I /K /S /Z /a /e /g /s /x /z /q /x /y /z /v
+- Tweaked /ddadeva /dddhadeva /ddhadeva /zadeva /rhadeva /yyadeva /jadeva
+Bold:
+- We now have the same glyph in both weigths!
+- Added /B /C /G /J /K /M /P /Q /R /S /W /Z /b /c /f /g /j /k /q /r /s /t /w
+- Tweaked /G /B /I /Z /i /v /x /y /z 
+
+11 July 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.012 and Amika Bold v0.007
+Regular:
+- Added /nnnadeva /ghhadeva /rhadeva /ddhadeva 
+/fadeva /rradeva /yyadeva /qadeva /zadeva
+/edeva /jadeva /nyadeva
+/ooesigndeva /eprishthamatrasigndeva
+Bold:
+- Tweaked /badeva/kadeva/ladeva/qadeva
+- Added /madeva /nadeva /nnadeva /nnnadeva /nyadeva
 /ooesigndeva /padeva /phadeva /qadeva /radeva /rradeva
 /sadeva /ssadeva /tadeva /thadeva /ttadeva /tthadeva
 /vadeva /yadeva /yaheavydeva /yyadeva
-
-
-11 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.006
-- Bold (Rodrigo):
-- All latin characters now have their bold version.
-- Started to test bold on the Devanagari, added:
 /aasigndeva /badeva /bhadeva /dadeva /danda /dbldanda
 /ddadeva /dddhadeva /ddhadeva /dottedcircle /edeva 
 /eprishthamatrasigndeva /fadeva /gadeva /ghhadeva /hadeva
 /ideva /iideva /iisigndeva /isigndeva /jadeva /jhadeva
 /kadeva /ladeva /ngadeva /qadeva /rhadeva /zadeva
 
-10 July 2012 (Palo Impallari) Amika Regular v0.012
-- Regular (Pablo):
-Added: /nnnadeva /ghhadeva /rhadeva /ddhadeva 
-/fadeva /rradeva /yyadeva /qadeva /zadeva
-/edeva /jadeva /nyadeva
-/ooesigndeva /eprishthamatrasigndeva
-
-9 July 2012 (Palo Impallari, Rodrigo Fuenzalida) Amika Regular v0.011 and Bold v0.003:
-- Regular (Pablo):
-Multiple improvements based on Erin McLaughlin feedback
-Added: /A /a  /iideva /isigndeva /iisigndeva /sadeva /jhadeva 
-/ngadeva /thadeva /ladeva /ttadeva /dadeva /ddhadeva /tthadeva 
-/yaheavydeva /dottedcircle /danda /dbldanda
-- Bold (Rodrigo):
-Changes on Latin Bold /h /i /m /n /u.
-Started to work on the Latin Uppercase.
+9 July 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.011 and Bold v0.003:
+Regular:
+- Multiple improvements based on Erin McLaughlin feedback
+- Added /A /a
+- Added /iideva /isigndeva /iisigndeva /sadeva /jhadeva /ngadeva 
+/thadeva /ladeva /ttadeva /dadeva /ddhadeva /tthadeva /yaheavydeva 
+/dottedcircle /danda /dbldanda
+Bold:
+- Tweaked: /h /i /m /n /u.
+- Started to work on the Latin Uppercase.
 
 8 July 2012 (Rodrigo Fuenzalida) Amika Bold v0.002:
 - Started the work on the latin characters for the Bold weight. 
 
 7 July 2012 (Pablo Impallari) Amika v007:
-Improvements based on feedback by Pria Ravichandran
-/bhadeva and /madeva: Horizontal moved down
-/nadeva and /gadeva: reworked knots for consistency
-/hadeva, /ddadeva and /ideva: wider, bigger knot
-/yadeva: Smaller counter
+- Improvements based on feedback by Pria Ravichandran
+- /bhadeva and /madeva: Horizontal moved down
+- /nadeva and /gadeva: reworked knots for consistency
+- /hadeva, /ddadeva and /ideva: wider, bigger knot
+- /yadeva: Smaller counter
 
 2 July 2012 (Pablo Impallari) Amika v0.004
 - Added a few initial glyphs
@@ -65,9 +70,6 @@ Improvements based on feedback by Pria Ravichandran
 30 June 2012 (Pablo Impallari) Amika v0.003
 - Added a few initial glyphs
 - Refining the existing ones
-
-29 June 2012 (Pablo Impallari) Amika v0.002
-- Added a few initial glyphs
 
 28 June 2012 (Pablo Impallari) Amika v0.001
 - Initial Beta
