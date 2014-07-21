@@ -5,7 +5,7 @@ Regular:
 Regular Current Glyphs:
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 a b c d e f g h i j k l m n o p q r s t u v w x y z
-0123456789 
+0 1 2 3 4 5 6 7 8 9 
 ग म भ न ग़ ऩ
 र स ऱ 
 त ल 
@@ -19,10 +19,16 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ए
  ा ी ि । ॥ ॎ
 
+Regular v0.020:
+- Tweaked:
+B C D G J O P Q U 
+a b c d e f g h i j m n o p q t u
+0 2 3 6 8 9
+badeva dadeva ddadeva ddhadeva espaciador hadeva helper ideva iideva iisigndeva 
+isigndeva ladeva nyadeva tadeva thadeva ttadeva tthadeva vadeva yaheavydeva
+
 To-Do Regular:
-- Balance /b /d /p /q for better stability
-- Improve /a /b /d /p /q /u to mach /h /m /n /u jonins 
-- Improve /O contours
+- Fix the ugly /five
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
 ---------------------------------------------------------------
@@ -32,7 +38,7 @@ Bold:
 Bold Current Glyphs:
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 a b c d e f g h i j k l m n o p q r s t u v w x y z 
-0123456789
+0 1 2 3 4 5 6 7 8 9
 ग म भ न ग़ ऩ
 र स ऱ 
 त ल 
