@@ -6,33 +6,31 @@ Regular Current Glyphs:
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 0 1 2 3 4 5 6 7 8 9 
-ग म भ न ग़ ऩ
-र स ऱ 
+ग म भ न ग़ ऩ ॻ
+र स ऱ ख ख़
 त ल 
-व ब क क़ 
-च ज ज़ ॹ
+व ब ॿ क क़ 
+च ज ज़ ॹ ॼ
 प ष फ ण फ़
 ट ठ ढ द ढ़ 
-ङ ड इ ई झ ह ड़ 
+ङ ड इ ई झ ह ड़ ॾ 
 य थ ॺ य़
 ञ
-अ ऄ ॳ आ औ ॵ	ओ ॴ ऒ
-ए
- ा ो ॊ ौ ी ि । ॥ ॎ
-ॻ ॿ ॼ ॾ
+अ ऄ ॳ आ औ ॵ	ओ ॴ ऒ ॲ
+ए ऐ ऎ ऍ
+ ा ॉ ो ॊ ौ ी ि । ॥ ॎ
 
-Regular v0.026:
+Regular v0.027:
 - Increased Vertical Metrics   
 - Adds Latin:
 asterisk bar braceleft braceright bracketleft bracketright brokenbar bullet colon comma dagger daggerdbl dotlessi dotlessj emdash endash equal exclam exclamdown guillemotleft guillemotright guilsinglleft guilsinglright hyphen logicalnot numbersign paragraph parenleft parenright periodcentered question questiondown section semicolon underscore uni00AD uni2116 uni2219
 - Adds Deva:
-osigndeva ausigndeva oshortsigndeva awsigndeva
-adeva aadeva
+osigndeva ausigndeva oshortsigndeva awsigndeva ocandrasigndeva
+adeva aadeva acandradeva
 ashortdeva audeva awdeva odeva oedeva ooedeva oshortdeva
-aideva eshortdeva
+aideva ecandradeva eshortdeva ocandradeva
 bbadeva dddadeva ggadeva jjadeva
-
-
+khadeva khhadeva
 
 - Tweaked Latin:
 B C D G J O P Q U 
