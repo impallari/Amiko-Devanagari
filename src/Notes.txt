@@ -16,17 +16,23 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ङ ड इ ई झ ह ड़ 
 य थ ॺ य़
 ञ
-अ आ
+अ ऄ ॳ आ औ ॵ	ओ ॴ ऒ
 ए
- ा ो ौ ी ि । ॥ ॎ
+ ा ो ॊ ौ ी ि । ॥ ॎ
+ॻ ॿ ॼ ॾ
 
-Regular v0.024:
+Regular v0.026:
 - Increased Vertical Metrics   
 - Adds Latin:
 asterisk bar braceleft braceright bracketleft bracketright brokenbar bullet colon comma dagger daggerdbl dotlessi dotlessj emdash endash equal exclam exclamdown guillemotleft guillemotright guilsinglleft guilsinglright hyphen logicalnot numbersign paragraph parenleft parenright periodcentered question questiondown section semicolon underscore uni00AD uni2116 uni2219
 - Adds Deva:
-osigndeva ausigndeva
-adeva 
+osigndeva ausigndeva oshortsigndeva awsigndeva
+adeva aadeva
+ashortdeva audeva awdeva odeva oedeva ooedeva oshortdeva
+aideva eshortdeva
+bbadeva dddadeva ggadeva jjadeva
+
+
 
 - Tweaked Latin:
 B C D G J O P Q U 
