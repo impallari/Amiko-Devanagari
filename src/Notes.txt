@@ -16,20 +16,27 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ङ ड इ ई झ ह ड़ 
 य थ ॺ य़
 ञ
+अ आ
 ए
- ा ी ि । ॥ ॎ
+ ा ो ौ ी ि । ॥ ॎ
 
-Regular v0.022:
-- Adds:
+Regular v0.024:
+- Increased Vertical Metrics   
+- Adds Latin:
 asterisk bar braceleft braceright bracketleft bracketright brokenbar bullet colon comma dagger daggerdbl dotlessi dotlessj emdash endash equal exclam exclamdown guillemotleft guillemotright guilsinglleft guilsinglright hyphen logicalnot numbersign paragraph parenleft parenright periodcentered question questiondown section semicolon underscore uni00AD uni2116 uni2219
-- Tweaked:
+- Adds Deva:
+osigndeva ausigndeva
+adeva 
+
+- Tweaked Latin:
 B C D G J O P Q U 
 a b c d e f g h i j m n o p q t u
 0 1 2 3 4 5 6 7 8 9
+- Tweaked Deva:
 badeva dadeva ddadeva ddhadeva espaciador hadeva helper ideva iideva iisigndeva 
 isigndeva ladeva nyadeva tadeva thadeva ttadeva tthadeva vadeva yaheavydeva
+Taller iisigndeva and isigndeva
 
-Probando de nuevo
 
 To-Do Regular:
 - Slightly Decrease spacing in Latin glyphs (This can be done later)

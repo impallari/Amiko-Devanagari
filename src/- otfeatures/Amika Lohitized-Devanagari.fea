@@ -1,9 +1,8 @@
-#Some Changes by Pablo:
+# Changes by Pablo:
 # /nonmarkingreturn renamed to /CR
-
+# /inr_currency renamed to /uni20B9
 
 # GSUB 
-
 
 lookup halnHalantFormslookup29 {
   lookupflag 0;
@@ -1336,7 +1335,7 @@ feature blwm {
 	\abbreviationsigndeva \highspacingdotdeva \acandradeva \oedeva \ooedeva 
 	\awdeva \uedeva \uuedeva \zhadeva \yaheavydeva \ggadeva \jjadeva 
 	\glottalstopdeva \dddadeva \bbadeva \zerowidthnonjoiner \endash \emdash 
-	\quoteleft \quoteright \quotedblleft \quotedblright \ellipsis \inr_currency 
+	\quoteleft \quoteright \quotedblleft \quotedblright \ellipsis \uni20B9 
 	\minus \dottedcircle \spacingcandrabindudeva \candrabinduviramadeva 
 	\doublecandrabinduviramadeva \candrabindudigittwodeva 
 	\candrabindudigitthreedeva \candrabinduavagrahadeva \pushpikadeva 
