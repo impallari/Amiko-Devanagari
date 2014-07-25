@@ -13,6 +13,18 @@ They are intended for body text on the web and low resolution screens. Amika sup
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
 
+25 July 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.029 and Bold v0.011
+- Increased Vertical Metrics 
+- Latin glyphs 90% completed
+- Lot of twearks to existing glyphs, both Latin and Devanagari
+- Added devanagari glyphs:
+osigndeva ausigndeva oshortsigndeva awsigndeva ocandrasigndeva
+adeva aadeva acandradeva
+ashortdeva audeva awdeva odeva oedeva ooedeva oshortdeva
+aideva ecandradeva eshortdeva ocandradeva
+bbadeva dddadeva ggadeva jjadeva
+khadeva khhadeva
+
 18 July 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.017 and Bold v0.010
 Regular:
 - Added /B /C /G /J /K /M /P /Q /R /S /W /X /Y /Z /b /c /f /g /j /k /q /r /s /t /w /x /y /z
