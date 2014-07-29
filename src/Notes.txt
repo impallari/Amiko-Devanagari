@@ -1,4 +1,4 @@
- ---------------------------------------------------------------
+---------------------------------------------------------------
 Regular:
 ---------------------------------------------------------------
 
@@ -19,6 +19,10 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 अ ऄ ॳ आ औ ॵ	ओ ॴ ऒ ॲ
 ए ऐ ऎ ऍ
  ा ॉ ो ॊ ौ ी ि । ॥ ॎ
+
+Latest:
+- Completed Latin AL3
+- Multiple Tweaks
 
 To-Do Regular:
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
