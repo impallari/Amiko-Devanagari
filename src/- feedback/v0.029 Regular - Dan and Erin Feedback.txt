@@ -1,0 +1,42 @@
+Dan:
+Hey Pablo,
+
+Nice going. I have a few comments.
+
+First off, is this designed to match an exiting Latin typeface of yours? It would be helpful – if that is the case – to see some Latin and Devanagari text side by side.
+
+The Na may be too wide. I am not 100% sure.
+
+I do think that the “hook” you have added to the right-hand side part of the lower element of the Ha is too much. I don’t think that it needs to come back in (meaning to the left) that much. It creates a dark area in your text that is too attention-grabbing.
+
+The Sa looks too narrow, particularly the top half. That counter form inside the character looks too pinched to me.
+
+Best,
+Dan
+
+--------------------------------------------
+Erin:
+Hi! I'm looking on a retina screen on a mac, not sure if that is relevant…   but I'll post my ideas:
+
+For designs like this, for small sizes, spacing is crucial. I'm noticing some pairs that look too tight:
+
+ka-na
+ha-na
+ra-ka
+ra-aasign
+ha-ba
+ha-ta
+ka-dda
+tta-Ka
+
+That means you probably should increase the LSB of Na, RSB of Ra, maybe both sides of Ka, RSB of Ha?
+
+-I also think that Ka is too wide. You can save some space by making the right-hand side end in a vertical rather than curl back inward. (can also change the Pha) I think it's also safe for you to make the left counter larger.
+
+- I might disagree with Dan on the removal of the Ha curl. I think it helps. Would like to see it both ways!
+
+- The Sa is the most distracting to me. I think the vertical crossbar is too low and it should be wider in general. There's too much emphasis on the knot right now.
+
+Otherwise, I think it's looking really good! Well done!
+
+Next step: U and Uu signs! It will pose to be a difficult challenge! :)

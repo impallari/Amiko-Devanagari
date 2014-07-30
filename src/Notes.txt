@@ -10,12 +10,12 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 र स ऱ ख ख़
 त ल 
 व ब ॿ क क़ 
-च ज ज़ ॹ ॼ
+च ज ज़ ॹ ॼ घ ध छ
 प ष फ ण फ़
 ट ठ ढ द ढ़ 
 ङ ड इ ई झ ह ड़ ॾ 
 य थ ॺ य़
-ञ
+श ञ
 अ ऄ ॳ आ औ ॵ	ओ ॴ ऒ ॲ
 ए ऐ ऎ ऍ
  ा ॉ ो ॊ ौ ी ि । ॥ ॎ
@@ -23,8 +23,14 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 Latest:
 - Completed Latin AL3
 - Multiple Tweaks
+Added:
+ghadeva dhadeva chadeva shadeva
+Tweaked:
+nadeva radeva rradeva sadeva tadeva 
+ttadeva ddadeva
 
 To-Do Regular:
+- Test narrower ka qa pha fa
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
 ---------------------------------------------------------------
