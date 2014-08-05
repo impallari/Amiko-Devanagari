@@ -15,22 +15,20 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ट ठ ढ द ढ़ 
 ङ ड इ ई झ ह ड़ ॾ 
 य थ ॺ य़
-श ञ
-अ ऄ ॳ आ औ ॵ	ओ ॴ ऒ ॲ
+श ळ ञ
+अ ऄ ॳ ॲ ॶ ॷ
+आ ओ औ ऒ ॵ ऑ ॴ
 ए ऐ ऎ ऍ
  ा ॉ ो ॊ ौ ी ि । ॥ ॎ
 
 Latest:
-- Completed Latin AL3
-- Multiple Tweaks
-Added:
-ghadeva dhadeva chadeva shadeva
-Tweaked:
-nadeva radeva rradeva sadeva tadeva 
-ttadeva ddadeva
+- Latin: Completed AL3, multiple tweaks
+- Deva Added:
+/ghadeva /dhadeva /chadeva /shadeva /lladeva /llladeva /uedeva /uuedeva
+- Deva Tweaked:
+/nadeva /radeva /rradeva /sadeva /tadeva /kadeva /qadeva /phadeva /fadeva /ttadeva /ddadeva /adeva
 
 To-Do Regular:
-- Test narrower ka qa pha fa
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
 
 ---------------------------------------------------------------
@@ -57,6 +55,8 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ---------------------------------------------------------------
 On Metrics:
 ---------------------------------------------------------------
+We are currently using: 1.334
+Parh comment:
 The default text height in android is 2163 ascent, 555 descent.
 This gives you 1.327 to play with.
 
