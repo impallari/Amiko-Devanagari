@@ -21,12 +21,15 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 ए ऐ ऎ ऍ
  ा ॉ ो ॊ ौ ी ि । ॥ ॎ
 
-Latest:
+Latest 1:
 - Latin: Completed AL3, multiple tweaks
 - Deva Added:
 /ghadeva /dhadeva /chadeva /shadeva /lladeva /llladeva /uedeva /uuedeva
 - Deva Tweaked:
 /nadeva /radeva /rradeva /sadeva /tadeva /kadeva /qadeva /phadeva /fadeva /ttadeva /ddadeva /adeva
+
+Latest 2:
+- Add new stuff here
 
 To-Do Regular:
 - Slightly Decrease spacing in Latin glyphs (This can be done later)
