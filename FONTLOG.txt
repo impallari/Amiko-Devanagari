@@ -12,6 +12,12 @@ They are intended for body text on the web and low resolution screens. Amika sup
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
 
+8 August 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.036 and Bold v0.018
+- Latin: Completed AL3 in Regular and Bold, multiple tweaks
+- Deva Added in Regular and Bold:
+/ghadeva /dhadeva /chadeva /shadeva /lladeva /llladeva /uedeva /uuedeva
+- Deva Tweaked in Regular and Bold:
+/nadeva /radeva /rradeva /sadeva /tadeva /kadeva /qadeva /phadeva /fadeva /ttadeva /ddadeva /adeva
 
 25 July 2012 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.029 and Bold v0.011
 - Increased Vertical Metrics 
