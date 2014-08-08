@@ -63,4 +63,8 @@ Parh comment:
 The default text height in android is 2163 ascent, 555 descent.
 This gives you 1.327 to play with.
 
+---------------------------------------------------------------
+Grid: 22 x 58
+---------------------------------------------------------------
+
 
