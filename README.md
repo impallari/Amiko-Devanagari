@@ -1,7 +1,7 @@
 Amika Fonts
 ======================
 
-Amika is a clean and utilitarian font family, specifically designed for maximum legibility at the smallest possible sizes ranges.
+Amika is a clean and utilitarian font family, specifically designed for maximum legibility at the smallest possible size range.
 It's intended for body text on the web and low resolution screens.
 Amika supports Latin and Devanagari scripts.
 
@@ -19,4 +19,4 @@ Work in progress...
 ## Thanks
 
 - We want to thank Pria Ravichandran, Erin McLaughlin, Girish Dalvi, Dan Reynolds and all those who have shared their knowledge, helping us to review and improve the Amika fonts.
-- We want to thank the Pravin Satpute and the Fedora's Lohit Font Project developers. Amika's Devanagari charset and Devanagari Open-Type feature code is based on it.
+- We want to thank Pravin Satpute and the Fedora's Lohit Font Project developers. Amika's Devanagari charset and Devanagari Open-Type feature code is based on it.
