@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnnadeva_viramadeva" format="1">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="319" y="-79" type="curve"/>
+      <point x="350" y="-70"/>
+      <point x="387" y="-37"/>
+      <point x="396" y="0" type="curve"/>
+      <point x="387" y="37"/>
+      <point x="350" y="70"/>
+      <point x="319" y="79" type="curve"/>
+      <point x="287" y="70"/>
+      <point x="251" y="37"/>
+      <point x="242" y="0" type="curve"/>
+      <point x="251" y="-37"/>
+      <point x="287" y="-70"/>
+    </contour>
+    <component base="nadeva_viramadeva"/>
+  </outline>
+</glyph>

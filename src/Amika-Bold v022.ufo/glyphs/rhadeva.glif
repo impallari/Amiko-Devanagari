@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhadeva" format="1">
+  <advance width="594"/>
+  <unicode hex="095D"/>
+  <outline>
+    <contour>
+      <point x="308" y="-190" type="curve"/>
+      <point x="339" y="-181"/>
+      <point x="376" y="-148"/>
+      <point x="385" y="-111" type="curve"/>
+      <point x="376" y="-74"/>
+      <point x="339" y="-41"/>
+      <point x="308" y="-32" type="curve"/>
+      <point x="276" y="-41"/>
+      <point x="240" y="-74"/>
+      <point x="231" y="-111" type="curve"/>
+      <point x="240" y="-148"/>
+      <point x="276" y="-181"/>
+    </contour>
+    <component base="ddhadeva"/>
+  </outline>
+</glyph>

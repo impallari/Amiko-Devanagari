@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tadeva_viramadeva_tadeva" format="1">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="-22" y="380" type="line"/>
+      <point x="411" y="380" type="line"/>
+      <point x="411" y="454" type="line"/>
+      <point x="-22" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="0" type="curve"/>
+      <point x="320" y="39" type="line"/>
+      <point x="296" y="79"/>
+      <point x="220" y="207"/>
+      <point x="220" y="298" type="curve" smooth="yes"/>
+      <point x="220" y="361"/>
+      <point x="257" y="380"/>
+      <point x="312" y="380" type="curve" smooth="yes"/>
+      <point x="534" y="380" type="line"/>
+      <point x="534" y="454" type="line"/>
+      <point x="309" y="454" type="line" smooth="yes"/>
+      <point x="200" y="454"/>
+      <point x="139" y="401"/>
+      <point x="139" y="306" type="curve" smooth="yes"/>
+      <point x="139" y="232"/>
+      <point x="177" y="132"/>
+    </contour>
+    <contour>
+      <point x="484" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="572" y="580" type="line"/>
+      <point x="726" y="580" type="line"/>
+      <point x="726" y="638" type="line"/>
+      <point x="-22" y="638" type="line"/>
+      <point x="-22" y="580" type="line"/>
+      <point x="484" y="580" type="line"/>
+    </contour>
+  </outline>
+</glyph>

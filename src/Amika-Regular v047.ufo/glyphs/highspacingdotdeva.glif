@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highspacingdotdeva" format="1">
+  <advance width="198"/>
+  <outline>
+    <contour>
+      <point x="44" y="555" type="line"/>
+      <point x="154" y="555" type="line"/>
+      <point x="154" y="665" type="line"/>
+      <point x="44" y="665" type="line"/>
+    </contour>
+  </outline>
+</glyph>

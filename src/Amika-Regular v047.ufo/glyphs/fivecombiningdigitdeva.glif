@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivecombiningdigitdeva" format="1">
+  <advance width="726"/>
+  <unicode hex="A8E5"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="638" y="638" type="line"/>
+      <point x="88" y="638" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="580" type="line"/>
+      <point x="580" y="580" type="line"/>
+      <point x="580" y="58" type="line"/>
+      <point x="146" y="58" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="597" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="638" y="41" type="line"/>
+      <point x="133" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

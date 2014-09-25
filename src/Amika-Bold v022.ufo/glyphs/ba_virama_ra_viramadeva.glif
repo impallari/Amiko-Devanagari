@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ba_virama_ra_viramadeva" format="1">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="110" y="-58" type="line"/>
+      <point x="389" y="128" type="line"/>
+      <point x="369" y="206" type="line"/>
+      <point x="54" y="13" type="line"/>
+    </contour>
+    <component base="badeva_viramadeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jhadeva" format="1">
+  <advance width="968"/>
+  <unicode hex="091D"/>
+  <outline>
+    <contour>
+      <point x="462" y="198" type="line"/>
+      <point x="598" y="217"/>
+      <point x="708" y="259"/>
+      <point x="792" y="379" type="curve"/>
+      <point x="792" y="444" type="line"/>
+      <point x="748" y="444" type="line"/>
+      <point x="701" y="341"/>
+      <point x="568" y="272"/>
+      <point x="462" y="257" type="curve"/>
+    </contour>
+    <component base="ideva"/>
+    <component base="aasigndeva" xOffset="616"/>
+  </outline>
+</glyph>

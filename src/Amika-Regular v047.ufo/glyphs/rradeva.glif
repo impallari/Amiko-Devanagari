@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rradeva" format="1">
+  <advance width="462"/>
+  <unicode hex="0931"/>
+  <outline>
+    <contour>
+      <point x="99" y="-12" type="curve"/>
+      <point x="126" y="-4"/>
+      <point x="157" y="24"/>
+      <point x="165" y="56" type="curve"/>
+      <point x="157" y="88"/>
+      <point x="126" y="116"/>
+      <point x="99" y="124" type="curve"/>
+      <point x="72" y="116"/>
+      <point x="41" y="88"/>
+      <point x="33" y="56" type="curve"/>
+      <point x="41" y="24"/>
+      <point x="72" y="-4"/>
+    </contour>
+    <component base="radeva"/>
+  </outline>
+</glyph>

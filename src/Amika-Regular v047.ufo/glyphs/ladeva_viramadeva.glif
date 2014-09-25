@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ladeva_viramadeva" format="1">
+  <advance width="528"/>
+  <outline>
+    <contour>
+      <point x="188" y="0" type="curve"/>
+      <point x="240" y="34" type="line"/>
+      <point x="173" y="129"/>
+      <point x="145" y="198"/>
+      <point x="145" y="270" type="curve" smooth="yes"/>
+      <point x="145" y="335"/>
+      <point x="168" y="367"/>
+      <point x="214" y="367" type="curve" smooth="yes"/>
+      <point x="265" y="367"/>
+      <point x="314" y="328"/>
+      <point x="370" y="245" type="curve"/>
+      <point x="397" y="304" type="line"/>
+      <point x="316" y="414"/>
+      <point x="275" y="443"/>
+      <point x="208" y="443" type="curve" smooth="yes"/>
+      <point x="115" y="443"/>
+      <point x="65" y="386"/>
+      <point x="65" y="284" type="curve" smooth="yes"/>
+      <point x="65" y="200"/>
+      <point x="99" y="122"/>
+    </contour>
+    <contour>
+      <point x="326" y="144" type="line"/>
+      <point x="403" y="144" type="line"/>
+      <point x="403" y="188" type="line" smooth="yes"/>
+      <point x="403" y="324"/>
+      <point x="424" y="364"/>
+      <point x="494" y="364" type="curve" smooth="yes"/>
+      <point x="523" y="364"/>
+      <point x="544" y="357"/>
+      <point x="594" y="331" type="curve"/>
+      <point x="594" y="399" type="line"/>
+      <point x="542" y="424"/>
+      <point x="511" y="433"/>
+      <point x="476" y="433" type="curve" smooth="yes"/>
+      <point x="375" y="433"/>
+      <point x="326" y="356"/>
+      <point x="326" y="195" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="572" y="580" type="line"/>
+      <point x="572" y="638" type="line"/>
+      <point x="-22" y="638" type="line"/>
+      <point x="-22" y="580" type="line"/>
+    </contour>
+  </outline>
+</glyph>

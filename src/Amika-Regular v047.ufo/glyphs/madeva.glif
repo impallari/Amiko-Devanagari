@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="madeva" format="1">
+  <advance width="704"/>
+  <unicode hex="092E"/>
+  <outline>
+    <contour>
+      <point x="191" y="103" type="line"/>
+      <point x="242" y="103" type="line"/>
+      <point x="242" y="234" type="line"/>
+      <point x="534" y="234" type="line"/>
+      <point x="534" y="304" type="line"/>
+      <point x="104" y="304" type="line"/>
+      <point x="89" y="294"/>
+      <point x="75" y="260"/>
+      <point x="72" y="238" type="curve"/>
+    </contour>
+    <contour>
+      <point x="484" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="572" y="580" type="line"/>
+      <point x="726" y="580" type="line"/>
+      <point x="726" y="638" type="line"/>
+      <point x="-22" y="638" type="line"/>
+      <point x="-22" y="580" type="line"/>
+      <point x="484" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="261" type="line"/>
+      <point x="242" y="261" type="line"/>
+      <point x="242" y="588" type="line"/>
+      <point x="166" y="588" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oedeva" format="1">
+  <advance width="902"/>
+  <outline>
+    <contour>
+      <point x="792" y="610" type="line"/>
+      <point x="792" y="812" type="line"/>
+      <point x="660" y="812" type="line"/>
+      <point x="660" y="610" type="line"/>
+    </contour>
+    <component base="adeva"/>
+  </outline>
+</glyph>

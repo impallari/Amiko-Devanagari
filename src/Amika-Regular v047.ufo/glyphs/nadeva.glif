@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nadeva" format="1">
+  <advance width="682"/>
+  <unicode hex="0928"/>
+  <outline>
+    <contour>
+      <point x="462" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="580" type="line"/>
+      <point x="704" y="580" type="line"/>
+      <point x="704" y="638" type="line"/>
+      <point x="-22" y="638" type="line"/>
+      <point x="-22" y="580" type="line"/>
+      <point x="462" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="185" type="line"/>
+      <point x="208" y="185" type="line"/>
+      <point x="208" y="335" type="line"/>
+      <point x="512" y="335" type="line"/>
+      <point x="512" y="405" type="line"/>
+      <point x="103" y="405" type="line"/>
+      <point x="88" y="395"/>
+      <point x="74" y="361"/>
+      <point x="71" y="339" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

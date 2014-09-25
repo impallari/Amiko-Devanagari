@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nyadeva" format="1">
+  <advance width="792"/>
+  <unicode hex="091E"/>
+  <outline>
+    <contour>
+      <point x="244" y="107" type="curve" smooth="yes"/>
+      <point x="351" y="107"/>
+      <point x="429" y="187"/>
+      <point x="429" y="294" type="curve" smooth="yes"/>
+      <point x="429" y="395"/>
+      <point x="354" y="470"/>
+      <point x="253" y="470" type="curve" smooth="yes"/>
+      <point x="204" y="470"/>
+      <point x="161" y="464"/>
+      <point x="115" y="447" type="curve"/>
+      <point x="138" y="379" type="line"/>
+      <point x="185" y="394"/>
+      <point x="229" y="399"/>
+      <point x="278" y="399" type="curve" smooth="yes"/>
+      <point x="321" y="399"/>
+      <point x="344" y="358"/>
+      <point x="344" y="312" type="curve" smooth="yes"/>
+      <point x="344" y="237"/>
+      <point x="300" y="174"/>
+      <point x="229" y="174" type="curve" smooth="yes"/>
+      <point x="172" y="174"/>
+      <point x="125" y="198"/>
+      <point x="75" y="225" type="curve"/>
+      <point x="66" y="168" type="line"/>
+      <point x="121" y="131"/>
+      <point x="177" y="107"/>
+    </contour>
+    <contour>
+      <point x="572" y="-20" type="line"/>
+      <point x="660" y="-20" type="line"/>
+      <point x="660" y="580" type="line"/>
+      <point x="814" y="580" type="line"/>
+      <point x="814" y="638" type="line"/>
+      <point x="-22" y="638" type="line"/>
+      <point x="-22" y="580" type="line"/>
+      <point x="572" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="257" type="line"/>
+      <point x="459" y="257"/>
+      <point x="538" y="258"/>
+      <point x="616" y="293" type="curve"/>
+      <point x="616" y="371" type="line"/>
+      <point x="541" y="325"/>
+      <point x="462" y="317"/>
+      <point x="374" y="317" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

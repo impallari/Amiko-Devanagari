@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qadeva" format="1">
+  <advance width="880"/>
+  <unicode hex="0958"/>
+  <outline>
+    <contour>
+      <point x="132" y="-90" type="curve"/>
+      <point x="163" y="-81"/>
+      <point x="200" y="-48"/>
+      <point x="209" y="-11" type="curve"/>
+      <point x="200" y="26"/>
+      <point x="163" y="59"/>
+      <point x="132" y="68" type="curve"/>
+      <point x="100" y="59"/>
+      <point x="64" y="26"/>
+      <point x="55" y="-11" type="curve"/>
+      <point x="64" y="-48"/>
+      <point x="100" y="-81"/>
+    </contour>
+    <component base="kadeva"/>
+  </outline>
+</glyph>

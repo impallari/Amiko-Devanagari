@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="esigndeva_anusvaradeva" format="1">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="308" y="732" type="line"/>
+      <point x="418" y="732" type="line"/>
+      <point x="418" y="842" type="line"/>
+      <point x="308" y="842" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="638" type="line"/>
+      <point x="191" y="610" type="line"/>
+      <point x="308" y="610" type="line"/>
+      <point x="308" y="638" type="line"/>
+      <point x="120" y="928" type="line"/>
+      <point x="116" y="928" type="line"/>
+      <point x="22" y="876" type="line"/>
+      <point x="22" y="872" type="line"/>
+    </contour>
+  </outline>
+</glyph>

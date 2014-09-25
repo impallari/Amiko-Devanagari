@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odeva" format="1">
+  <advance width="1254"/>
+  <unicode hex="0913"/>
+  <outline>
+    <contour>
+      <point x="1105" y="608" type="line"/>
+      <point x="1105" y="638" type="line"/>
+      <point x="922" y="928" type="line"/>
+      <point x="918" y="928" type="line"/>
+      <point x="846" y="887" type="line"/>
+      <point x="846" y="883" type="line"/>
+      <point x="1032" y="638" type="line"/>
+      <point x="1032" y="608" type="line"/>
+    </contour>
+    <component base="aadeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnnadeva" format="1">
+  <advance width="682"/>
+  <unicode hex="0929"/>
+  <outline>
+    <contour>
+      <point x="308" y="-12" type="curve"/>
+      <point x="335" y="-4"/>
+      <point x="366" y="24"/>
+      <point x="374" y="56" type="curve"/>
+      <point x="366" y="88"/>
+      <point x="335" y="116"/>
+      <point x="308" y="124" type="curve"/>
+      <point x="281" y="116"/>
+      <point x="250" y="88"/>
+      <point x="242" y="56" type="curve"/>
+      <point x="250" y="24"/>
+      <point x="281" y="-4"/>
+    </contour>
+    <component base="nadeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bhadeva" format="1">
+  <advance width="704"/>
+  <unicode hex="092D"/>
+  <outline>
+    <contour>
+      <point x="144" y="272" type="line"/>
+      <point x="264" y="272" type="line"/>
+      <point x="264" y="530" type="line" smooth="yes"/>
+      <point x="264" y="603"/>
+      <point x="227" y="638"/>
+      <point x="150" y="638" type="curve" smooth="yes"/>
+      <point x="-22" y="638" type="line"/>
+      <point x="-22" y="558" type="line"/>
+      <point x="112" y="558" type="line" smooth="yes"/>
+      <point x="135" y="558"/>
+      <point x="144" y="551"/>
+      <point x="144" y="514" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="462" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+      <point x="594" y="558" type="line"/>
+      <point x="726" y="558" type="line"/>
+      <point x="726" y="638" type="line"/>
+      <point x="418" y="638" type="line"/>
+      <point x="418" y="558" type="line"/>
+      <point x="462" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="81" type="line"/>
+      <point x="264" y="81" type="line"/>
+      <point x="264" y="234" type="line"/>
+      <point x="534" y="234" type="line"/>
+      <point x="534" y="326" type="line"/>
+      <point x="93" y="326" type="line"/>
+      <point x="71" y="313"/>
+      <point x="54" y="267"/>
+      <point x="50" y="238" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

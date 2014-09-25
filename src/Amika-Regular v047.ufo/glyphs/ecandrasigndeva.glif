@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecandrasigndeva" format="1">
+  <advance width="527"/>
+  <unicode hex="0945"/>
+  <outline>
+    <contour>
+      <point x="264" y="716" type="curve" smooth="yes"/>
+      <point x="385" y="716"/>
+      <point x="484" y="784"/>
+      <point x="484" y="890" type="curve"/>
+      <point x="407" y="890" type="line"/>
+      <point x="407" y="830"/>
+      <point x="348" y="783"/>
+      <point x="264" y="783" type="curve" smooth="yes"/>
+      <point x="181" y="783"/>
+      <point x="121" y="830"/>
+      <point x="121" y="890" type="curve"/>
+      <point x="44" y="890" type="line"/>
+      <point x="44" y="784"/>
+      <point x="145" y="716"/>
+    </contour>
+  </outline>
+</glyph>

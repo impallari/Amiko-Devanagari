@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llladeva" format="1">
+  <advance width="792"/>
+  <unicode hex="0934"/>
+  <outline>
+    <contour>
+      <point x="66" y="-68" type="curve"/>
+      <point x="93" y="-60"/>
+      <point x="124" y="-32"/>
+      <point x="132" y="0" type="curve"/>
+      <point x="124" y="32"/>
+      <point x="93" y="60"/>
+      <point x="66" y="68" type="curve"/>
+      <point x="39" y="60"/>
+      <point x="8" y="32"/>
+      <point x="0" y="0" type="curve"/>
+      <point x="8" y="-32"/>
+      <point x="39" y="-60"/>
+    </contour>
+    <component base="lladeva"/>
+  </outline>
+</glyph>
