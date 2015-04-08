@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravedeva" format="1">
-  <advance width="352"/>
-  <unicode hex="0953"/>
-  <outline>
-    <component base="grave" yOffset="45"/>
-  </outline>
-</glyph>

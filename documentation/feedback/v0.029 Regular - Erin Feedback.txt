@@ -1,0 +1,25 @@
+Erin:
+Hi! I'm looking on a retina screen on a mac, not sure if that is relevant…   but I'll post my ideas:
+
+For designs like this, for small sizes, spacing is crucial. I'm noticing some pairs that look too tight:
+
+ka-na
+ha-na
+ra-ka
+ra-aasign
+ha-ba
+ha-ta
+ka-dda
+tta-Ka
+
+That means you probably should increase the LSB of Na, RSB of Ra, maybe both sides of Ka, RSB of Ha?
+
+-I also think that Ka is too wide. You can save some space by making the right-hand side end in a vertical rather than curl back inward. (can also change the Pha) I think it's also safe for you to make the left counter larger.
+
+- I might disagree with Dan on the removal of the Ha curl. I think it helps. Would like to see it both ways!
+
+- The Sa is the most distracting to me. I think the vertical crossbar is too low and it should be wider in general. There's too much emphasis on the knot right now.
+
+Otherwise, I think it's looking really good! Well done!
+
+Next step: U and Uu signs! It will pose to be a difficult challenge! :)

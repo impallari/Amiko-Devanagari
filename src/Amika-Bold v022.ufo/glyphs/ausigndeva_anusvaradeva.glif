@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ausigndeva_anusvaradeva" format="1">
-  <advance width="352"/>
-  <outline>
-    <component base="aisigndeva_anusvaradeva" xOffset="-198"/>
-    <component base="aasigndeva"/>
-  </outline>
-</glyph>

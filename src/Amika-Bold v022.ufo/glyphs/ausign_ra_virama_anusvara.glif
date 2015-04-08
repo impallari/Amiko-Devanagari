@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ausign_ra_virama_anusvara" format="1">
-  <advance width="352"/>
-  <outline>
-    <component base="aisign_ra_virama_anusvara" xOffset="-220"/>
-    <component base="aasigndeva"/>
-  </outline>
-</glyph>
