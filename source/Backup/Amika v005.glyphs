@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/ka-deva"
+);
 classes = (
 {
 automatic = 1;
@@ -39,7 +42,7 @@ name = vendorID;
 value = IMPA;
 }
 );
-date = "2015-05-29 17:01:09 +0000";
+date = "2015-06-07 19:42:04 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida";
 designerURL = "http://www.impallari.com/";
 familyName = "Amika";
@@ -113,10 +116,16 @@ value = "-406";
 descender = -232;
 guideLines = (
 {
+locked = 1;
 position = "{0, 928}";
 },
 {
+locked = 1;
 position = "{0, -406}";
+},
+{
+locked = 1;
+position = "{991, 638}";
 }
 );
 horizontalStems = (
@@ -5264,7 +5273,7 @@ unicode = 007A;
 },
 {
 glyphname = "aShort-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:28:55 +0000";
 layers = (
 {
 components = (
@@ -5406,9 +5415,19 @@ unicode = 0972;
 },
 {
 glyphname = "a-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:56:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{726, 0}";
+},
+{
+name = top;
+position = "{726, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -5585,9 +5604,19 @@ unicode = 0905;
 },
 {
 glyphname = "aa-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:56:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{1078, 0}";
+},
+{
+name = top;
+position = "{1078, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -5790,9 +5819,19 @@ unicode = 0906;
 },
 {
 glyphname = "i-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:56:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = candra;
+position = "{296, 638}";
+},
+{
+name = top;
+position = "{425, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -6058,9 +6097,23 @@ unicode = 0908;
 },
 {
 glyphname = "u-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:29:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{307, 0}";
+},
+{
+name = candra;
+position = "{296, 638}";
+},
+{
+name = top;
+position = "{357, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -6193,9 +6246,23 @@ unicode = 0909;
 },
 {
 glyphname = "uu-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:30:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{315, 0}";
+},
+{
+name = candra;
+position = "{521, 638}";
+},
+{
+name = top;
+position = "{368, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -6378,9 +6445,23 @@ unicode = 090A;
 },
 {
 glyphname = "rVocalic-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:31:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{483, 0}";
+},
+{
+name = candra;
+position = "{484, 638}";
+},
+{
+name = top;
+position = "{483, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -6579,9 +6660,23 @@ unicode = 090B;
 },
 {
 glyphname = "rrVocalic-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:31:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{483, 0}";
+},
+{
+name = candra;
+position = "{484, 638}";
+},
+{
+name = top;
+position = "{483, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -6814,9 +6909,23 @@ unicode = 0960;
 },
 {
 glyphname = "lVocalic-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:32:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{278, -85}";
+},
+{
+name = candra;
+position = "{352, 638}";
+},
+{
+name = top;
+position = "{508, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -6989,9 +7098,19 @@ unicode = 090C;
 },
 {
 glyphname = "llVocalic-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:32:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = candra;
+position = "{352, 638}";
+},
+{
+name = top;
+position = "{508, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -7348,9 +7467,19 @@ unicode = 090E;
 },
 {
 glyphname = "e-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:33:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = candra;
+position = "{341, 638}";
+},
+{
+name = top;
+position = "{506, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -8169,9 +8298,23 @@ unicode = 0977;
 },
 {
 glyphname = "aaMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:35:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{176, 0}";
+},
+{
+name = candra;
+position = "{176, 638}";
+},
+{
+name = top;
+position = "{176, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -8216,9 +8359,19 @@ unicode = 093E;
 },
 {
 glyphname = "iMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:35:52 +0000";
 layers = (
 {
+anchors = (
+{
+name = candra;
+position = "{933, 638}";
+},
+{
+name = imatra;
+position = "{836, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -8303,9 +8456,23 @@ unicode = 093F;
 },
 {
 glyphname = "iiMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:36:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = candra;
+position = "{352, 638}";
+},
+{
+name = iimatra;
+position = "{-187, 638}";
+},
+{
+name = top;
+position = "{176, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -8778,7 +8945,7 @@ unicode = 093B;
 },
 {
 glyphname = "awVowel-deva";
-lastChange = "2015-05-28 18:46:49 +0000";
+lastChange = "2015-06-07 19:43:38 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -8905,9 +9072,23 @@ unicode = 094F;
 },
 {
 glyphname = "ka-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:44:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{440, 0}";
+},
+{
+name = candra;
+position = "{440, 638}";
+},
+{
+name = top;
+position = "{440, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -10157,9 +10338,23 @@ unicode = 091E;
 },
 {
 glyphname = "tta-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:19:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{280, 0}";
+},
+{
+name = candra;
+position = "{308, 638}";
+},
+{
+name = top;
+position = "{374, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18357,83 +18552,95 @@ unicode = 0950;
 },
 {
 glyphname = "uMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:26:22 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{404, 0}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"286 -194 LINE",
-"322 -165 OFFCURVE",
-"359 -153 OFFCURVE",
-"408 -153 CURVE SMOOTH",
-"471 -153 OFFCURVE",
-"515 -172 OFFCURVE",
-"515 -221 CURVE SMOOTH",
-"515 -285 OFFCURVE",
-"432 -328 OFFCURVE",
-"330 -328 CURVE SMOOTH",
-"232 -328 OFFCURVE",
-"164 -288 OFFCURVE",
-"83 -191 CURVE",
-"79 -191 LINE",
-"44 -235 LINE",
-"44 -239 LINE",
-"110 -343 OFFCURVE",
-"213 -406 OFFCURVE",
-"345 -406 CURVE SMOOTH",
-"483 -406 OFFCURVE",
-"594 -337 OFFCURVE",
-"594 -233 CURVE SMOOTH",
-"594 -139 OFFCURVE",
-"510 -74 OFFCURVE",
-"404 -74 CURVE SMOOTH",
-"334 -74 OFFCURVE",
-"280 -103 OFFCURVE",
-"248 -131 CURVE"
+"483 -316 OFFCURVE",
+"594 -247 OFFCURVE",
+"594 -143 CURVE SMOOTH",
+"594 -49 OFFCURVE",
+"510 16 OFFCURVE",
+"404 16 CURVE SMOOTH",
+"334 16 OFFCURVE",
+"280 -13 OFFCURVE",
+"248 -41 CURVE",
+"286 -104 LINE",
+"322 -75 OFFCURVE",
+"359 -63 OFFCURVE",
+"408 -63 CURVE SMOOTH",
+"471 -63 OFFCURVE",
+"515 -82 OFFCURVE",
+"515 -131 CURVE SMOOTH",
+"515 -195 OFFCURVE",
+"432 -238 OFFCURVE",
+"330 -238 CURVE SMOOTH",
+"232 -238 OFFCURVE",
+"164 -198 OFFCURVE",
+"83 -101 CURVE",
+"79 -101 LINE",
+"44 -145 LINE",
+"44 -149 LINE",
+"110 -253 OFFCURVE",
+"213 -316 OFFCURVE",
+"345 -316 CURVE SMOOTH"
 );
 }
 );
 width = 638;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{404, 0}";
+}
+);
 layerId = "CD42366C-28E1-4C24-AB95-7D2C522D2B07";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"298 -216 LINE",
-"331 -187 OFFCURVE",
-"364 -175 OFFCURVE",
-"407 -175 CURVE SMOOTH",
-"459 -175 OFFCURVE",
-"493 -193 OFFCURVE",
-"493 -228 CURVE SMOOTH",
-"493 -282 OFFCURVE",
-"411 -306 OFFCURVE",
-"336 -306 CURVE SMOOTH",
-"237 -306 OFFCURVE",
-"178 -265 OFFCURVE",
-"105 -169 CURVE",
-"101 -169 LINE",
-"44 -235 LINE",
-"44 -239 LINE",
-"110 -342 OFFCURVE",
-"210 -406 OFFCURVE",
-"350 -406 CURVE SMOOTH",
-"495 -406 OFFCURVE",
-"616 -337 OFFCURVE",
-"616 -232 CURVE SMOOTH",
-"616 -139 OFFCURVE",
-"521 -74 OFFCURVE",
-"408 -74 CURVE SMOOTH",
-"329 -74 OFFCURVE",
-"278 -106 OFFCURVE",
-"249 -131 CURVE"
+"485 -323 OFFCURVE",
+"606 -254 OFFCURVE",
+"606 -149 CURVE SMOOTH",
+"606 -56 OFFCURVE",
+"511 9 OFFCURVE",
+"398 9 CURVE SMOOTH",
+"319 9 OFFCURVE",
+"268 -23 OFFCURVE",
+"239 -48 CURVE",
+"288 -133 LINE",
+"321 -104 OFFCURVE",
+"354 -92 OFFCURVE",
+"397 -92 CURVE SMOOTH",
+"449 -92 OFFCURVE",
+"483 -110 OFFCURVE",
+"483 -145 CURVE SMOOTH",
+"483 -199 OFFCURVE",
+"401 -223 OFFCURVE",
+"326 -223 CURVE SMOOTH",
+"227 -223 OFFCURVE",
+"168 -182 OFFCURVE",
+"95 -86 CURVE",
+"91 -86 LINE",
+"34 -152 LINE",
+"34 -156 LINE",
+"100 -259 OFFCURVE",
+"200 -323 OFFCURVE",
+"340 -323 CURVE SMOOTH"
 );
 }
 );
@@ -18444,83 +18651,95 @@ unicode = 0941;
 },
 {
 glyphname = "uuMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:26:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{293, 0}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"351 -286 LINE",
-"315 -315 OFFCURVE",
-"278 -327 OFFCURVE",
-"229 -327 CURVE SMOOTH",
-"166 -327 OFFCURVE",
-"123 -308 OFFCURVE",
-"123 -259 CURVE SMOOTH",
-"123 -195 OFFCURVE",
-"205 -152 OFFCURVE",
-"307 -152 CURVE SMOOTH",
-"405 -152 OFFCURVE",
-"474 -192 OFFCURVE",
-"555 -289 CURVE",
-"559 -289 LINE",
-"594 -245 LINE",
-"594 -241 LINE",
-"528 -137 OFFCURVE",
-"424 -74 OFFCURVE",
-"292 -74 CURVE SMOOTH",
-"154 -74 OFFCURVE",
-"44 -143 OFFCURVE",
-"44 -247 CURVE SMOOTH",
-"44 -341 OFFCURVE",
-"127 -406 OFFCURVE",
-"233 -406 CURVE SMOOTH",
-"303 -406 OFFCURVE",
-"357 -377 OFFCURVE",
-"389 -349 CURVE"
+"304 -316 OFFCURVE",
+"358 -287 OFFCURVE",
+"390 -259 CURVE",
+"352 -196 LINE",
+"316 -225 OFFCURVE",
+"279 -237 OFFCURVE",
+"230 -237 CURVE SMOOTH",
+"167 -237 OFFCURVE",
+"123 -218 OFFCURVE",
+"123 -169 CURVE SMOOTH",
+"123 -105 OFFCURVE",
+"206 -62 OFFCURVE",
+"308 -62 CURVE SMOOTH",
+"406 -62 OFFCURVE",
+"474 -102 OFFCURVE",
+"555 -199 CURVE",
+"559 -199 LINE",
+"594 -155 LINE",
+"594 -151 LINE",
+"528 -47 OFFCURVE",
+"425 16 OFFCURVE",
+"293 16 CURVE SMOOTH",
+"155 16 OFFCURVE",
+"44 -53 OFFCURVE",
+"44 -157 CURVE SMOOTH",
+"44 -251 OFFCURVE",
+"128 -316 OFFCURVE",
+"234 -316 CURVE SMOOTH"
 );
 }
 );
 width = 638;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{293, 0}";
+}
+);
 layerId = "CD42366C-28E1-4C24-AB95-7D2C522D2B07";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"340 -264 LINE",
-"307 -293 OFFCURVE",
-"273 -305 OFFCURVE",
-"231 -305 CURVE SMOOTH",
-"179 -305 OFFCURVE",
-"145 -287 OFFCURVE",
-"145 -252 CURVE SMOOTH",
-"145 -198 OFFCURVE",
-"227 -174 OFFCURVE",
-"302 -174 CURVE SMOOTH",
-"401 -174 OFFCURVE",
-"460 -215 OFFCURVE",
-"533 -311 CURVE",
-"537 -311 LINE",
-"594 -245 LINE",
-"594 -241 LINE",
-"528 -138 OFFCURVE",
-"428 -74 OFFCURVE",
-"288 -74 CURVE SMOOTH",
-"143 -74 OFFCURVE",
-"22 -143 OFFCURVE",
-"22 -248 CURVE SMOOTH",
-"22 -341 OFFCURVE",
-"117 -406 OFFCURVE",
-"230 -406 CURVE SMOOTH",
-"309 -406 OFFCURVE",
-"360 -374 OFFCURVE",
-"389 -349 CURVE"
+"321 -314 OFFCURVE",
+"372 -282 OFFCURVE",
+"401 -257 CURVE",
+"352 -172 LINE",
+"319 -201 OFFCURVE",
+"286 -213 OFFCURVE",
+"243 -213 CURVE SMOOTH",
+"191 -213 OFFCURVE",
+"157 -195 OFFCURVE",
+"157 -160 CURVE SMOOTH",
+"157 -106 OFFCURVE",
+"239 -82 OFFCURVE",
+"314 -82 CURVE SMOOTH",
+"413 -82 OFFCURVE",
+"472 -123 OFFCURVE",
+"545 -219 CURVE",
+"549 -219 LINE",
+"606 -153 LINE",
+"606 -149 LINE",
+"540 -46 OFFCURVE",
+"440 18 OFFCURVE",
+"300 18 CURVE SMOOTH",
+"155 18 OFFCURVE",
+"34 -51 OFFCURVE",
+"34 -156 CURVE SMOOTH",
+"34 -249 OFFCURVE",
+"129 -314 OFFCURVE",
+"242 -314 CURVE SMOOTH"
 );
 }
 );
@@ -18531,9 +18750,15 @@ unicode = 0942;
 },
 {
 glyphname = "eCandraMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:44:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = _candra;
+position = "{263, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18590,9 +18815,15 @@ unicode = 0945;
 },
 {
 glyphname = "candraBindu-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:44:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = _candra;
+position = "{265, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18744,9 +18975,15 @@ unicode = 0900;
 },
 {
 glyphname = "eShortMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:41:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{400, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18767,7 +19004,7 @@ nodes = (
 "400 820 OFFCURVE",
 "440 727 OFFCURVE",
 "440 638 CURVE SMOOTH",
-"440 610 LINE",
+"440 610 LINE SMOOTH",
 "363 610 LINE"
 );
 }
@@ -18807,9 +19044,15 @@ unicode = 0946;
 },
 {
 glyphname = "eMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 18:42:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{272, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18854,9 +19097,15 @@ unicode = 0947;
 },
 {
 glyphname = "aiMatra-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:27:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{380, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18895,8 +19144,8 @@ nodes = (
 "418 928 LINE",
 "300 906 LINE",
 "300 902 LINE",
-"364 692 LINE",
-"360 692 LINE",
+"361 693 LINE",
+"357 693 LINE",
 "124 895 LINE",
 "120 895 LINE",
 "22 811 LINE",
@@ -18913,9 +19162,15 @@ unicode = 0948;
 },
 {
 glyphname = "anusvara-deva";
-lastChange = "2015-05-29 18:08:27 +0000";
+lastChange = "2015-06-07 18:42:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{99, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -18952,21 +19207,27 @@ unicode = 0902;
 },
 {
 glyphname = "halant-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:32:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{160, 0}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"88 -162 LINE",
-"44 -110 LINE",
-"154 -45 LINE",
-"396 -192 LINE",
-"341 -244 LINE",
-"154 -116 LINE"
+"85 -212 LINE",
+"40 -155 LINE",
+"162 -85 LINE",
+"420 -272 LINE",
+"369 -327 LINE",
+"159 -168 LINE"
 );
 }
 );
@@ -18979,12 +19240,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"88 -206 LINE",
-"22 -121 LINE",
-"154 -45 LINE",
-"396 -192 LINE",
-"330 -277 LINE",
-"154 -149 LINE"
+"88 -233 LINE",
+"19 -154 LINE",
+"164 -67 LINE",
+"439 -268 LINE",
+"364 -348 LINE",
+"160 -186 LINE"
 );
 }
 );
@@ -18995,22 +19256,28 @@ unicode = 094D;
 },
 {
 glyphname = "rakar-deva";
-lastChange = "2015-05-28 17:59:49 +0000";
+lastChange = "2015-06-07 19:26:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{275, 0}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"528 -232 LINE",
-"308 -20 LINE",
-"242 -20 LINE",
-"22 -232 LINE",
-"117 -232 LINE",
-"275 -90 LINE",
-"433 -232 LINE"
+"508 -206 LINE",
+"308 16 LINE",
+"242 16 LINE",
+"42 -206 LINE",
+"117 -246 LINE",
+"275 -54 LINE",
+"433 -246 LINE"
 );
 }
 );
@@ -19023,13 +19290,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"550 -232 LINE",
-"330 -20 LINE",
-"220 -20 LINE",
-"0 -232 LINE",
-"139 -232 LINE",
-"275 -112 LINE",
-"411 -232 LINE"
+"528 -211 LINE",
+"330 20 LINE",
+"220 20 LINE",
+"20 -212 LINE",
+"125 -269 LINE",
+"275 -72 LINE",
+"430 -272 LINE"
 );
 }
 );
@@ -19039,9 +19306,15 @@ width = 550;
 },
 {
 glyphname = "oeMatra-deva";
-lastChange = "2015-05-29 18:04:45 +0000";
+lastChange = "2015-06-07 18:44:52 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{88, 638}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -19078,9 +19351,15 @@ unicode = 093A;
 },
 {
 glyphname = "ueMatra-deva";
-lastChange = "2015-05-29 18:05:57 +0000";
+lastChange = "2015-06-07 18:45:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{341, 0}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -19137,9 +19416,15 @@ unicode = 0956;
 },
 {
 glyphname = "uueMatra-deva";
-lastChange = "2015-05-29 18:06:43 +0000";
+lastChange = "2015-06-07 18:45:07 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{341, 0}";
+}
+);
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -19334,5 +19619,5 @@ oV = 95;
 };
 };
 versionMajor = 0;
-versionMinor = 49;
+versionMinor = 50;
 }
