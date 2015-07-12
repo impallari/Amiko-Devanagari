@@ -1,5 +1,3 @@
-- Hace las f_x ligas wider
-- Cambiar las f_x ligas de discretionary a default
 - review anusvara positioning
 
 ---------------------------------------------------------------
