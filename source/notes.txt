@@ -1,4 +1,5 @@
-- fix eogonek
+- improve spacing of d l t caron, like ldot (make testing tab containing sample strings)
+- tilde heavy: make it a bit wider
 - review anusvara positioning
 
 ---------------------------------------------------------------
