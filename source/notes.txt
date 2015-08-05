@@ -1,52 +1,4 @@
-- tilde heavy: make it a bit wider
-- review anusvara positioning
-
----------------------------------------------------------------
-Regular:
----------------------------------------------------------------
-
-Regular Current Glyphs:
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-a b c d e f g h i j k l m n o p q r s t u v w x y z
-0 1 2 3 4 5 6 7 8 9 
-ग म भ न ग़ ऩ ॻ
-र स ऱ ख ख़
-त ल 
-व ब ॿ क क़ 
-च ज ज़ ॹ ॼ घ ध छ
-प ष फ ण फ़
-ट ठ ढ द ढ़ 
-ङ ड इ ई झ ह ड़ ॾ 
-य थ ॺ य़
-श ळ ञ
-अ ऄ ॳ ॲ ॶ ॷ
-आ ओ औ ऒ ॵ ऑ ॴ
-ए ऐ ऎ ऍ
- ा ॉ ो ॊ ौ ी ि । ॥ ॎ
-
-To-Do Regular:
-- Slightly Decrease spacing in Latin glyphs (This can be done later)
-
----------------------------------------------------------------
-Bold:
----------------------------------------------------------------
-
-Bold Current Glyphs:
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-a b c d e f g h i j k l m n o p q r s t u v w x y z 
-0 1 2 3 4 5 6 7 8 9
-ग म भ न ग़ ऩ
-र स ऱ 
-त ल 
-व ब क क़ 
-च ज ज़ ॹ
-प ष फ ण फ़
-ट ठ ढ द ढ़ 
-ङ ड इ ई झ ह ड़ 
-य थ ॺ य़
-ञ
-ए
- ा ी ि । ॥ ॎ
+Improve /sterling
 
 ---------------------------------------------------------------
 On Metrics:
@@ -56,7 +8,9 @@ The default text height in android is 2163 ascent, 555 descent.
 This gives you 1.327 to play with.
 
 ---------------------------------------------------------------
-Grid: 22 x 58
+Grid:
+20 X 58 Latin
+22 x 58 Deva
 ---------------------------------------------------------------
 
 

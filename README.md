@@ -14,7 +14,7 @@ Work in progress...
 
 ## Authors
 
-[Pablo Impallari](http://www.impallari.com) and [Rodrigo Fuenzalida](http://www.rfuenzalida.com)
+[Pablo Impallari](http://www.impallari.com), [Rodrigo Fuenzalida](http://www.rfuenzalida.com) and [Andres Torresi](http://www.huertatipografica.com.ar)
 
 ## Thanks
 

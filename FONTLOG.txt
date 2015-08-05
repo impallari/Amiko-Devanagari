@@ -111,3 +111,8 @@ E: fuenzarodrigo@gmail.com
 W: http://www.impallari.com
 D: Designer
 
+N: Andres Torresi
+E: andres@huertatipografica.com.ar
+W: http://www.huertatipografica.com.ar
+D: Designer
+
