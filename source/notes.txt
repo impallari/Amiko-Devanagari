@@ -1,4 +1,4 @@
-Improve /sterling
+- New Name
 
 ---------------------------------------------------------------
 On Metrics:
@@ -11,6 +11,10 @@ This gives you 1.327 to play with.
 Grid:
 20 X 58 Latin
 22 x 58 Deva
+
+Stems:
+400 -  88 Regular
+700 - 132 Bold
 ---------------------------------------------------------------
 
 
