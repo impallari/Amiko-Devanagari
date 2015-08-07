@@ -1,22 +1,27 @@
-- New Name
-- iimatras
-- fix ii-deva bold
+To—Do list:
+
+- Add interpolated iiMatras (iMatras are Ok)
+
+- Fix ई Bold. Regular is ok
+- ईं overlaps
+
+- Rename awVowel-deva to awMatra-deva?
+If so, review OT feature code and rename also.
+
+- Are this 3 glyph needed (marked in red), or are they safe to delete? Double Check.
+/doubleCandraBindu_halant-deva
+/spacingCandraBindu-deva
+/glyph244
+
 
 ---------------------------------------------------------------
-On Metrics:
----------------------------------------------------------------
-Raph comment:
+Raph comment on Metrics:
 The default text height in android is 2163 ascent, 555 descent.
 This gives you 1.327 to play with.
+
 
 ---------------------------------------------------------------
 Grid:
 20 X 58 Latin
 22 x 58 Deva
-
-Stems:
-400 -  88 Regular
-700 - 132 Bold
----------------------------------------------------------------
-
 
