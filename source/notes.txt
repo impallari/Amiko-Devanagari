@@ -1,4 +1,6 @@
 - New Name
+- iimatras
+- fix ii-deva bold
 
 ---------------------------------------------------------------
 On Metrics:
