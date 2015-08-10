@@ -1,18 +1,7 @@
-To—Do list:
 
-- Add interpolated iiMatras (iMatras are Ok)
-
-- Fix ई Bold. Regular is ok
-- ईं overlaps
-
-- Rename awVowel-deva to awMatra-deva?
-If so, review OT feature code and rename also.
-
-- Are this 3 glyph needed (marked in red), or are they safe to delete? Double Check.
-/doubleCandraBindu_halant-deva
-/spacingCandraBindu-deva
-/glyph244
-
+Kern:
+- Group caps diacritics,
+- Group lowercase liacritics
 
 ---------------------------------------------------------------
 Raph comment on Metrics:
