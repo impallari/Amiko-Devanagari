@@ -1,8 +1,8 @@
-FONTLOG for the Amika fonts
+FONTLOG for the Amiko fonts
 
-This file provides detailed information on the Amika Font Software.
+This file provides detailed information on the Amiko Font Software.
 
-This information should be distributed along with the Amika fonts and any
+This information should be distributed along with the Amiko fonts and any
 derivative works.
 
 Basic Font Information
@@ -11,6 +11,9 @@ Amika is a clean and utilitarian font family, specifically designed for maximum 
 They are intended for body text on the web and low resolution screens. Amika supports Latin and Devanagari scripts.
 
 To contribute to the project contact Pablo Impallari at impallari@gmail.com 
+
+11 Aug 2015 (Pablo Impallari, Rodrigo Fuenzalida, Andres Torresi) Amiko v1.000
+- Initial v1 Release
 
 28 May 2015 (Pablo Impallari, Rodrigo Fuenzalida) Amika v0.048
 - Migration from FL to Glyphs in progress…

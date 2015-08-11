@@ -1,16 +1,16 @@
-Amika Fonts
+Amiko Fonts
 ======================
 
-Amika is a clean and utilitarian font family, specifically designed for maximum legibility at the smallest possible size range.
+Amiko is a clean and utilitarian font family, specifically designed for maximum legibility at the smallest possible size range.
 It's intended for body text on the web and low resolution screens.
-Amika supports Latin and Devanagari scripts.
+Amiko supports Latin and Devanagari scripts.
 
 Work in progress...
 
 ## License
 
-- Amika is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/Amika-Devanagari-Fonts/blob/master/OFL.txt)
+- Amiko is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
+- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/Amiko-Devanagari-Fonts/blob/master/OFL.txt)
 
 ## Authors
 

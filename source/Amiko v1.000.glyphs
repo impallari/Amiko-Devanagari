@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"HH/quoteleft AHH HHA/quoteright HH HH/quoteright AHH HHL/quoteright HH\012HH/quotedblleft AHH HHA/quotedblright HH HH/quotedblright AHH HHL/quotedblright HH\012HH'A'HH HHL'HH HH\"A\"HH HHL\"HH\012HH.O.HH HH.T.HH HH.V.HH HH.W.HH HH.Y.HH\012HHD.HH HHF.HH HHP.HH\012HH,O,HH HH,T,HH HH,V,HH HH,W,HH HH,Y,HH\012HHD,HH HHF,HH HHP,HH\012HHK-HH HHL-HH\012HH-T-HH HH-V-HH HH-W-HH HH-X-HH HH-Y-HH HH-Z-HH\012HHT:HH HHV:HH HHY:HH\012HHT;HH HHV;HH HHY;HH\012\012nn.f.nn nn.o.nn nn.v.nn nn.w.nn nn.y.nn nnr.nn\012nn,f,nn nn,o,nn nn,v,nn nn,w,nn nn,y,nn nnr,nn\012nonf?non non(f)non nonf/quoteright non\012nonk-non nonr-non non-x-non\012noYnon"
-);
 classes = (
 {
 code = "k-deva k_ss-deva kh-deva g-deva gh-deva ng-deva ng_k-deva c-deva ch-deva j-deva j_j-deva j_ny-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva t_t-deva t_r-deva th-deva d-deva dh-deva n-deva nnn-deva p-deva ph-deva b-deva b_r-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva lll-deva v-deva sh-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva f-deva sh-deva.loclMAR jh-deva.loclNEP sh-deva.ss02";
@@ -125,11 +122,11 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 name = trademark;
-value = "Amika is a trademark of Impallari Type.";
+value = "Amiko is a trademark of Impallari Type.";
 },
 {
 name = description;
-value = "Amika is a clean and utilitarian font family specifically designed for maximum legibility at the smallest possible sizes ranges. They are intended for body text on the web and low resolution screens. Amika supports Latin and Devanagari scripts.";
+value = "Amiko is a clean and utilitarian font family specifically designed for maximum legibility at the smallest possible sizes ranges. They are intended for body text on the web and low resolution screens. Amiko supports Latin and Devanagari scripts.";
 },
 {
 name = vendorID;
@@ -139,7 +136,7 @@ value = IMPA;
 date = "2015-08-10 14:57:08 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Andres Torresi";
 designerURL = "http://www.impallari.com/";
-familyName = "Amika";
+familyName = "Amiko";
 featurePrefixes = (
 {
 code = "# BEGIN removeReph\012lookup removeReph {\012sub ka-deva [reph-deva reph_anusvara-deva] by ka-deva;\012sub kha-deva [reph-deva reph_anusvara-deva] by kha-deva;\012sub ga-deva [reph-deva reph_anusvara-deva] by ga-deva;\012sub gha-deva [reph-deva reph_anusvara-deva] by gha-deva;\012sub nga-deva [reph-deva reph_anusvara-deva] by nga-deva;\012sub ca-deva [reph-deva reph_anusvara-deva] by ca-deva;\012sub cha-deva [reph-deva reph_anusvara-deva] by cha-deva;\012sub ja-deva [reph-deva reph_anusvara-deva] by ja-deva;\012sub jha-deva [reph-deva reph_anusvara-deva] by jha-deva;\012sub nya-deva [reph-deva reph_anusvara-deva] by nya-deva;\012sub tta-deva [reph-deva reph_anusvara-deva] by tta-deva;\012sub ttha-deva [reph-deva reph_anusvara-deva] by ttha-deva;\012sub dda-deva [reph-deva reph_anusvara-deva] by dda-deva;\012sub ddha-deva [reph-deva reph_anusvara-deva] by ddha-deva;\012sub nna-deva [reph-deva reph_anusvara-deva] by nna-deva;\012sub ta-deva [reph-deva reph_anusvara-deva] by ta-deva;\012sub tha-deva [reph-deva reph_anusvara-deva] by tha-deva;\012sub da-deva [reph-deva reph_anusvara-deva] by da-deva;\012sub dha-deva [reph-deva reph_anusvara-deva] by dha-deva;\012sub na-deva [reph-deva reph_anusvara-deva] by na-deva;\012sub nnna-deva [reph-deva reph_anusvara-deva] by nnna-deva;\012sub pa-deva [reph-deva reph_anusvara-deva] by pa-deva;\012sub pha-deva [reph-deva reph_anusvara-deva] by pha-deva;\012sub ba-deva [reph-deva reph_anusvara-deva] by ba-deva;\012sub bha-deva [reph-deva reph_anusvara-deva] by bha-deva;\012sub ma-deva [reph-deva reph_anusvara-deva] by ma-deva;\012sub ya-deva [reph-deva reph_anusvara-deva] by ya-deva;\012sub ra-deva [reph-deva reph_anusvara-deva] by ra-deva;\012sub rra-deva [reph-deva reph_anusvara-deva] by rra-deva;\012sub la-deva [reph-deva reph_anusvara-deva] by la-deva;\012sub lla-deva [reph-deva reph_anusvara-deva] by lla-deva;\012sub llla-deva [reph-deva reph_anusvara-deva] by llla-deva;\012sub va-deva [reph-deva reph_anusvara-deva] by va-deva;\012sub sha-deva [reph-deva reph_anusvara-deva] by sha-deva;\012sub ssa-deva [reph-deva reph_anusvara-deva] by ssa-deva;\012sub sa-deva [reph-deva reph_anusvara-deva] by sa-deva;\012sub ha-deva [reph-deva reph_anusvara-deva] by ha-deva;\012sub qa-deva [reph-deva reph_anusvara-deva] by qa-deva;\012sub khha-deva [reph-deva reph_anusvara-deva] by khha-deva;\012sub ghha-deva [reph-deva reph_anusvara-deva] by ghha-deva;\012sub za-deva [reph-deva reph_anusvara-deva] by za-deva;\012sub dddha-deva [reph-deva reph_anusvara-deva] by dddha-deva;\012sub rha-deva [reph-deva reph_anusvara-deva] by rha-deva;\012sub fa-deva [reph-deva reph_anusvara-deva] by fa-deva;\012sub yya-deva [reph-deva reph_anusvara-deva] by yya-deva;\012sub zha-deva [reph-deva reph_anusvara-deva] by zha-deva;\012sub jjya-deva [reph-deva reph_anusvara-deva] by jjya-deva;\012sub gga-deva [reph-deva reph_anusvara-deva] by gga-deva;\012sub jja-deva [reph-deva reph_anusvara-deva] by jja-deva;\012sub ddda-deva [reph-deva reph_anusvara-deva] by ddda-deva;\012sub bba-deva [reph-deva reph_anusvara-deva] by bba-deva;\012sub la-deva.loclMAR [reph-deva reph_anusvara-deva] by la-deva.loclMAR;\012sub sha-deva.loclMAR [reph-deva reph_anusvara-deva] by sha-deva.loclMAR;\012sub jha-deva.loclNEP [reph-deva reph_anusvara-deva] by jha-deva.loclNEP;\012sub zha-deva.loclNEP [reph-deva reph_anusvara-deva] by zha-deva.loclNEP;\012sub k-deva [reph-deva reph_anusvara-deva] by k-deva;\012sub k_ss-deva [reph-deva reph_anusvara-deva] by k_ss-deva;\012sub kh-deva [reph-deva reph_anusvara-deva] by kh-deva;\012sub g-deva [reph-deva reph_anusvara-deva] by g-deva;\012sub gh-deva [reph-deva reph_anusvara-deva] by gh-deva;\012sub ng-deva [reph-deva reph_anusvara-deva] by ng-deva;\012sub ng_k-deva [reph-deva reph_anusvara-deva] by ng_k-deva;\012sub c-deva [reph-deva reph_anusvara-deva] by c-deva;\012sub ch-deva [reph-deva reph_anusvara-deva] by ch-deva;\012sub j-deva [reph-deva reph_anusvara-deva] by j-deva;\012sub j_j-deva [reph-deva reph_anusvara-deva] by j_j-deva;\012sub j_ny-deva [reph-deva reph_anusvara-deva] by j_ny-deva;\012sub jh-deva [reph-deva reph_anusvara-deva] by jh-deva;\012sub ny-deva [reph-deva reph_anusvara-deva] by ny-deva;\012sub tt-deva [reph-deva reph_anusvara-deva] by tt-deva;\012sub tth-deva [reph-deva reph_anusvara-deva] by tth-deva;\012sub dd-deva [reph-deva reph_anusvara-deva] by dd-deva;\012sub ddh-deva [reph-deva reph_anusvara-deva] by ddh-deva;\012sub nn-deva [reph-deva reph_anusvara-deva] by nn-deva;\012sub t-deva [reph-deva reph_anusvara-deva] by t-deva;\012sub t_t-deva [reph-deva reph_anusvara-deva] by t_t-deva;\012sub t_r-deva [reph-deva reph_anusvara-deva] by t_r-deva;\012sub th-deva [reph-deva reph_anusvara-deva] by th-deva;\012sub d-deva [reph-deva reph_anusvara-deva] by d-deva;\012sub dh-deva [reph-deva reph_anusvara-deva] by dh-deva;\012sub n-deva [reph-deva reph_anusvara-deva] by n-deva;\012sub nnn-deva [reph-deva reph_anusvara-deva] by nnn-deva;\012sub p-deva [reph-deva reph_anusvara-deva] by p-deva;\012sub ph-deva [reph-deva reph_anusvara-deva] by ph-deva;\012sub b-deva [reph-deva reph_anusvara-deva] by b-deva;\012sub b_r-deva [reph-deva reph_anusvara-deva] by b_r-deva;\012sub bh-deva [reph-deva reph_anusvara-deva] by bh-deva;\012sub m-deva [reph-deva reph_anusvara-deva] by m-deva;\012sub y-deva [reph-deva reph_anusvara-deva] by y-deva;\012sub rr-deva [reph-deva reph_anusvara-deva] by rr-deva;\012sub l-deva [reph-deva reph_anusvara-deva] by l-deva;\012sub ll-deva [reph-deva reph_anusvara-deva] by ll-deva;\012sub lll-deva [reph-deva reph_anusvara-deva] by lll-deva;\012sub v-deva [reph-deva reph_anusvara-deva] by v-deva;\012sub sh-deva [reph-deva reph_anusvara-deva] by sh-deva;\012sub ss-deva [reph-deva reph_anusvara-deva] by ss-deva;\012sub s-deva [reph-deva reph_anusvara-deva] by s-deva;\012sub h-deva [reph-deva reph_anusvara-deva] by h-deva;\012sub q-deva [reph-deva reph_anusvara-deva] by q-deva;\012sub khh-deva [reph-deva reph_anusvara-deva] by khh-deva;\012sub ghh-deva [reph-deva reph_anusvara-deva] by ghh-deva;\012sub z-deva [reph-deva reph_anusvara-deva] by z-deva;\012sub f-deva [reph-deva reph_anusvara-deva] by f-deva;\012sub sh-deva.loclMAR [reph-deva reph_anusvara-deva] by sh-deva.loclMAR;\012sub jh-deva.loclNEP [reph-deva reph_anusvara-deva] by jh-deva.loclNEP;\012sub sh-deva.ss02 [reph-deva reph_anusvara-deva] by sh-deva.ss02;\012sub k_ka-deva [reph-deva reph_anusvara-deva] by k_ka-deva;\012sub k_ta-deva [reph-deva reph_anusvara-deva] by k_ta-deva;\012sub k_ra-deva [reph-deva reph_anusvara-deva] by k_ra-deva;\012sub k_la-deva [reph-deva reph_anusvara-deva] by k_la-deva;\012sub k_va-deva [reph-deva reph_anusvara-deva] by k_va-deva;\012sub k_ssa-deva [reph-deva reph_anusvara-deva] by k_ssa-deva;\012sub k_ss_ra-deva [reph-deva reph_anusvara-deva] by k_ss_ra-deva;\012sub kh_ra-deva [reph-deva reph_anusvara-deva] by kh_ra-deva;\012sub g_na-deva [reph-deva reph_anusvara-deva] by g_na-deva;\012sub g_ra-deva [reph-deva reph_anusvara-deva] by g_ra-deva;\012sub gh_ra-deva [reph-deva reph_anusvara-deva] by gh_ra-deva;\012sub ng_ka-deva [reph-deva reph_anusvara-deva] by ng_ka-deva;\012sub ng_k_ssa-deva [reph-deva reph_anusvara-deva] by ng_k_ssa-deva;\012sub ng_kha-deva [reph-deva reph_anusvara-deva] by ng_kha-deva;\012sub ng_ga-deva [reph-deva reph_anusvara-deva] by ng_ga-deva;\012sub ng_gha-deva [reph-deva reph_anusvara-deva] by ng_gha-deva;\012sub ng_ma-deva [reph-deva reph_anusvara-deva] by ng_ma-deva;\012sub c_ca-deva [reph-deva reph_anusvara-deva] by c_ca-deva;\012sub c_ra-deva [reph-deva reph_anusvara-deva] by c_ra-deva;\012sub ch_va-deva [reph-deva reph_anusvara-deva] by ch_va-deva;\012sub j_ja-deva [reph-deva reph_anusvara-deva] by j_ja-deva;\012sub j_nya-deva [reph-deva reph_anusvara-deva] by j_nya-deva;\012sub j_ny_ra-deva [reph-deva reph_anusvara-deva] by j_ny_ra-deva;\012sub j_ra-deva [reph-deva reph_anusvara-deva] by j_ra-deva;\012sub jh_ra-deva [reph-deva reph_anusvara-deva] by jh_ra-deva;\012sub ny_ca-deva [reph-deva reph_anusvara-deva] by ny_ca-deva;\012sub ny_ja-deva [reph-deva reph_anusvara-deva] by ny_ja-deva;\012sub ny_ra-deva [reph-deva reph_anusvara-deva] by ny_ra-deva;\012sub tt_tta-deva [reph-deva reph_anusvara-deva] by tt_tta-deva;\012sub tt_ttha-deva [reph-deva reph_anusvara-deva] by tt_ttha-deva;\012sub tt_ya-deva [reph-deva reph_anusvara-deva] by tt_ya-deva;\012sub tt_va-deva [reph-deva reph_anusvara-deva] by tt_va-deva;\012sub tth_ttha-deva [reph-deva reph_anusvara-deva] by tth_ttha-deva;\012sub tth_ya-deva [reph-deva reph_anusvara-deva] by tth_ya-deva;\012sub dd_dda-deva [reph-deva reph_anusvara-deva] by dd_dda-deva;\012sub dd_ddha-deva [reph-deva reph_anusvara-deva] by dd_ddha-deva;\012sub dd_ya-deva [reph-deva reph_anusvara-deva] by dd_ya-deva;\012sub ddh_ddha-deva [reph-deva reph_anusvara-deva] by ddh_ddha-deva;\012sub ddh_ya-deva [reph-deva reph_anusvara-deva] by ddh_ya-deva;\012sub nn_ra-deva [reph-deva reph_anusvara-deva] by nn_ra-deva;\012sub t_ta-deva [reph-deva reph_anusvara-deva] by t_ta-deva;\012sub t_ra-deva [reph-deva reph_anusvara-deva] by t_ra-deva;\012sub th_ra-deva [reph-deva reph_anusvara-deva] by th_ra-deva;\012sub d_ga-deva [reph-deva reph_anusvara-deva] by d_ga-deva;\012sub d_gha-deva [reph-deva reph_anusvara-deva] by d_gha-deva;\012sub d_ddh_r_ya-deva [reph-deva reph_anusvara-deva] by d_ddh_r_ya-deva;\012sub d_da-deva [reph-deva reph_anusvara-deva] by d_da-deva;\012sub d_dha-deva [reph-deva reph_anusvara-deva] by d_dha-deva;\012sub d_na-deva [reph-deva reph_anusvara-deva] by d_na-deva;\012sub d_ba-deva [reph-deva reph_anusvara-deva] by d_ba-deva;\012sub d_bha-deva [reph-deva reph_anusvara-deva] by d_bha-deva;\012sub d_ma-deva [reph-deva reph_anusvara-deva] by d_ma-deva;\012sub d_ya-deva [reph-deva reph_anusvara-deva] by d_ya-deva;\012sub d_ra-deva [reph-deva reph_anusvara-deva] by d_ra-deva;\012sub d_va-deva [reph-deva reph_anusvara-deva] by d_va-deva;\012sub d_rVocalicMatra-deva [reph-deva reph_anusvara-deva] by d_rVocalicMatra-deva;\012sub dh_ra-deva [reph-deva reph_anusvara-deva] by dh_ra-deva;\012sub n_alta-deva [reph-deva reph_anusvara-deva] by n_alta-deva;\012sub n_na-deva [reph-deva reph_anusvara-deva] by n_na-deva;\012sub n_ra-deva [reph-deva reph_anusvara-deva] by n_ra-deva;\012sub p_ta-deva [reph-deva reph_anusvara-deva] by p_ta-deva;\012sub p_ra-deva [reph-deva reph_anusvara-deva] by p_ra-deva;\012sub p_la-deva [reph-deva reph_anusvara-deva] by p_la-deva;\012sub ph_ra-deva [reph-deva reph_anusvara-deva] by ph_ra-deva;\012sub ph_r_nukta-deva [reph-deva reph_anusvara-deva] by ph_r_nukta-deva;\012sub b_ra-deva [reph-deva reph_anusvara-deva] by b_ra-deva;\012sub bh_ra-deva [reph-deva reph_anusvara-deva] by bh_ra-deva;\012sub m_ra-deva [reph-deva reph_anusvara-deva] by m_ra-deva;\012sub y_ra-deva [reph-deva reph_anusvara-deva] by y_ra-deva;\012sub ra_uMatra-deva [reph-deva reph_anusvara-deva] by ra_uMatra-deva;\012sub ra_uuMatra-deva [reph-deva reph_anusvara-deva] by ra_uuMatra-deva;\012sub l_ra-deva [reph-deva reph_anusvara-deva] by l_ra-deva;\012sub l_la-deva [reph-deva reph_anusvara-deva] by l_la-deva;\012sub v_ra-deva [reph-deva reph_anusvara-deva] by v_ra-deva;\012sub sh_rVocalic-deva [reph-deva reph_anusvara-deva] by sh_rVocalic-deva;\012sub sh_ca-deva [reph-deva reph_anusvara-deva] by sh_ca-deva;\012sub sh_na-deva [reph-deva reph_anusvara-deva] by sh_na-deva;\012sub sh_ra-deva [reph-deva reph_anusvara-deva] by sh_ra-deva;\012sub sh_la-deva [reph-deva reph_anusvara-deva] by sh_la-deva;\012sub sh_va-deva [reph-deva reph_anusvara-deva] by sh_va-deva;\012sub ss_tta-deva [reph-deva reph_anusvara-deva] by ss_tta-deva;\012sub ss_ttha-deva [reph-deva reph_anusvara-deva] by ss_ttha-deva;\012sub ss_ra-deva [reph-deva reph_anusvara-deva] by ss_ra-deva;\012sub s_t_ra-deva [reph-deva reph_anusvara-deva] by s_t_ra-deva;\012sub s_ra-deva [reph-deva reph_anusvara-deva] by s_ra-deva;\012sub h_rVocalic-deva [reph-deva reph_anusvara-deva] by h_rVocalic-deva;\012sub h_nna-deva [reph-deva reph_anusvara-deva] by h_nna-deva;\012sub h_na-deva [reph-deva reph_anusvara-deva] by h_na-deva;\012sub h_ma-deva [reph-deva reph_anusvara-deva] by h_ma-deva;\012sub h_ya-deva [reph-deva reph_anusvara-deva] by h_ya-deva;\012sub h_ra-deva [reph-deva reph_anusvara-deva] by h_ra-deva;\012sub h_la-deva [reph-deva reph_anusvara-deva] by h_la-deva;\012sub h_va-deva [reph-deva reph_anusvara-deva] by h_va-deva;\012sub ph_la-deva.loclMAR [reph-deva reph_anusvara-deva] by ph_la-deva.loclMAR;\012sub k_ra-deva.loclNEP [reph-deva reph_anusvara-deva] by k_ra-deva.loclNEP;\012} removeReph;\012# END removeReph\012";
@@ -535,7 +532,7 @@ unicode = 0041;
 },
 {
 glyphname = Aacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:54 +0000";
 layers = (
 {
 components = (
@@ -566,11 +563,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 00C1;
 },
 {
 glyphname = Abreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:54 +0000";
 layers = (
 {
 components = (
@@ -601,11 +600,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0102;
 },
 {
 glyphname = Acircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -636,11 +637,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 00C2;
 },
 {
 glyphname = Adblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -671,11 +674,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0200;
 },
 {
 glyphname = Adieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:54 +0000";
 layers = (
 {
 components = (
@@ -706,11 +711,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 00C4;
 },
 {
 glyphname = Agrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -741,11 +748,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 00C0;
 },
 {
 glyphname = Ainvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -776,11 +785,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0202;
 },
 {
 glyphname = Amacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -811,11 +822,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:54 +0000";
 layers = (
 {
 components = (
@@ -846,11 +859,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0104;
 },
 {
 glyphname = Aring;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -881,11 +896,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 00C5;
 },
 {
 glyphname = Aringacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -998,11 +1015,13 @@ nodes = (
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 01FA;
 },
 {
 glyphname = Atilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:29:53 +0000";
 layers = (
 {
 components = (
@@ -1033,6 +1052,8 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 00C3;
 },
 {
@@ -1191,7 +1212,7 @@ unicode = 00C6;
 },
 {
 glyphname = AEacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:04 +0000";
 layers = (
 {
 components = (
@@ -1222,6 +1243,7 @@ name = Bold;
 width = 980;
 }
 );
+leftKerningGroup = AE;
 unicode = 01FC;
 },
 {
@@ -1556,7 +1578,7 @@ unicode = 0043;
 },
 {
 glyphname = Cacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:34 +0000";
 layers = (
 {
 components = (
@@ -1587,11 +1609,12 @@ name = Bold;
 width = 720;
 }
 );
+leftKerningGroup = O;
 unicode = 0106;
 },
 {
 glyphname = Ccaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:34 +0000";
 layers = (
 {
 components = (
@@ -1622,11 +1645,12 @@ name = Bold;
 width = 720;
 }
 );
+leftKerningGroup = O;
 unicode = 010C;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:34 +0000";
 layers = (
 {
 components = (
@@ -1657,11 +1681,12 @@ name = Bold;
 width = 720;
 }
 );
+leftKerningGroup = O;
 unicode = 00C7;
 },
 {
 glyphname = Ccircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:34 +0000";
 layers = (
 {
 components = (
@@ -1692,11 +1717,12 @@ name = Bold;
 width = 720;
 }
 );
+leftKerningGroup = O;
 unicode = 0108;
 },
 {
 glyphname = Cdotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:34 +0000";
 layers = (
 {
 components = (
@@ -1727,6 +1753,7 @@ name = Bold;
 width = 720;
 }
 );
+leftKerningGroup = O;
 unicode = 010A;
 },
 {
@@ -1876,7 +1903,7 @@ unicode = 0044;
 },
 {
 glyphname = DZ;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:02:31 +0000";
 layers = (
 {
 components = (
@@ -1907,11 +1934,12 @@ name = Bold;
 width = 1440;
 }
 );
+rightKerningGroup = Z;
 unicode = 01F1;
 },
 {
 glyphname = DZcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:02:52 +0000";
 layers = (
 {
 components = (
@@ -1942,11 +1970,12 @@ name = Bold;
 width = 1440;
 }
 );
+rightKerningGroup = Z;
 unicode = 01C4;
 },
 {
 glyphname = Eth;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:42 +0000";
 layers = (
 {
 components = (
@@ -1977,11 +2006,12 @@ name = Bold;
 width = 780;
 }
 );
+rightKerningGroup = O;
 unicode = 00D0;
 },
 {
 glyphname = Dcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:42 +0000";
 layers = (
 {
 components = (
@@ -2012,11 +2042,12 @@ name = Bold;
 width = 780;
 }
 );
+rightKerningGroup = O;
 unicode = 010E;
 },
 {
 glyphname = Dcroat;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:42 +0000";
 layers = (
 {
 components = (
@@ -2039,11 +2070,12 @@ name = Bold;
 width = 780;
 }
 );
+rightKerningGroup = O;
 unicode = 0110;
 },
 {
 glyphname = Ddotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:30:42 +0000";
 layers = (
 {
 components = (
@@ -2074,11 +2106,12 @@ name = Bold;
 width = 780;
 }
 );
+rightKerningGroup = O;
 unicode = 1E0C;
 },
 {
 glyphname = Dz;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:02:58 +0000";
 layers = (
 {
 components = (
@@ -2109,6 +2142,7 @@ name = Bold;
 width = 1300;
 }
 );
+rightKerningGroup = z;
 unicode = 01F2;
 },
 {
@@ -2848,7 +2882,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:31:20 +0000";
 layers = (
 {
 anchors = (
@@ -3086,12 +3120,13 @@ nodes = (
 width = 780;
 }
 );
+leftKerningGroup = O;
 rightKerningGroup = G;
 unicode = 0047;
 },
 {
 glyphname = Gacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:31:32 +0000";
 layers = (
 {
 components = (
@@ -3122,11 +3157,12 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = O;
 unicode = 01F4;
 },
 {
 glyphname = Gbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:31:32 +0000";
 layers = (
 {
 components = (
@@ -3157,11 +3193,12 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = O;
 unicode = 011E;
 },
 {
 glyphname = Gcircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:31:32 +0000";
 layers = (
 {
 components = (
@@ -3192,11 +3229,12 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = O;
 unicode = 011C;
 },
 {
 glyphname = Gcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:31:32 +0000";
 layers = (
 {
 components = (
@@ -3227,11 +3265,12 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = O;
 unicode = 0122;
 },
 {
 glyphname = Gdotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:31:32 +0000";
 layers = (
 {
 components = (
@@ -3262,6 +3301,7 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = O;
 unicode = 0120;
 },
 {
@@ -4289,7 +4329,7 @@ unicode = 004B;
 },
 {
 glyphname = Kcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:29:54 +0000";
 layers = (
 {
 components = (
@@ -4320,6 +4360,7 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = K;
 unicode = 0136;
 },
 {
@@ -4462,7 +4503,7 @@ unicode = 01C7;
 },
 {
 glyphname = Lacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:26 +0000";
 layers = (
 {
 components = (
@@ -4493,6 +4534,7 @@ name = Bold;
 width = 580;
 }
 );
+rightKerningGroup = L;
 unicode = 0139;
 },
 {
@@ -4532,7 +4574,7 @@ unicode = 013D;
 },
 {
 glyphname = Lcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:26 +0000";
 layers = (
 {
 components = (
@@ -4563,6 +4605,7 @@ name = Bold;
 width = 580;
 }
 );
+rightKerningGroup = L;
 unicode = 013B;
 },
 {
@@ -5485,7 +5528,7 @@ unicode = 004F;
 },
 {
 glyphname = Oacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5516,11 +5559,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D3;
 },
 {
 glyphname = Obreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5551,11 +5596,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 014E;
 },
 {
 glyphname = Ocircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5586,11 +5633,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D4;
 },
 {
 glyphname = Odblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5621,11 +5670,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 020C;
 },
 {
 glyphname = Odieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5656,11 +5707,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D6;
 },
 {
 glyphname = Odotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5691,11 +5744,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ECC;
 },
 {
 glyphname = Ograve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5726,11 +5781,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D2;
 },
 {
 glyphname = Ohungarumlaut;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5761,11 +5818,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 0150;
 },
 {
 glyphname = Oinvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5796,11 +5855,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 020E;
 },
 {
 glyphname = Omacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5831,11 +5892,13 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 014C;
 },
 {
 glyphname = Oogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5866,6 +5929,8 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 01EA;
 },
 {
@@ -5966,7 +6031,7 @@ unicode = 01FE;
 },
 {
 glyphname = Otilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:32:39 +0000";
 layers = (
 {
 components = (
@@ -5997,6 +6062,8 @@ name = Bold;
 width = 840;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D5;
 },
 {
@@ -6659,7 +6726,7 @@ unicode = 0052;
 },
 {
 glyphname = Racute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:25:17 +0000";
 layers = (
 {
 components = (
@@ -6690,11 +6757,12 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = R;
 unicode = 0154;
 },
 {
 glyphname = Rcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:25:17 +0000";
 layers = (
 {
 components = (
@@ -6725,11 +6793,12 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = R;
 unicode = 0158;
 },
 {
 glyphname = Rcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:25:17 +0000";
 layers = (
 {
 components = (
@@ -6760,11 +6829,12 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = R;
 unicode = 0156;
 },
 {
 glyphname = Rdblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:25:17 +0000";
 layers = (
 {
 components = (
@@ -6795,11 +6865,12 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = R;
 unicode = 0210;
 },
 {
 glyphname = Rdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:25:17 +0000";
 layers = (
 {
 components = (
@@ -6830,11 +6901,12 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = R;
 unicode = 1E5A;
 },
 {
 glyphname = Rinvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:25:17 +0000";
 layers = (
 {
 components = (
@@ -6865,11 +6937,12 @@ name = Bold;
 width = 700;
 }
 );
+rightKerningGroup = R;
 unicode = 0212;
 },
 {
 glyphname = S;
-lastChange = "2015-08-10 15:15:20 +0000";
+lastChange = "2015-08-11 04:33:20 +0000";
 layers = (
 {
 anchors = (
@@ -7070,11 +7143,12 @@ width = 640;
 }
 );
 leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0053;
 },
 {
 glyphname = Sacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:33:36 +0000";
 layers = (
 {
 components = (
@@ -7105,11 +7179,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 015A;
 },
 {
 glyphname = Scaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:33:36 +0000";
 layers = (
 {
 components = (
@@ -7140,11 +7216,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0160;
 },
 {
 glyphname = Scedilla;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:33:36 +0000";
 layers = (
 {
 components = (
@@ -7175,11 +7253,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 015E;
 },
 {
 glyphname = Scircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:33:36 +0000";
 layers = (
 {
 components = (
@@ -7210,11 +7290,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 015C;
 },
 {
 glyphname = Scommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:33:36 +0000";
 layers = (
 {
 components = (
@@ -7245,11 +7327,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0218;
 },
 {
 glyphname = Sdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:33:36 +0000";
 layers = (
 {
 components = (
@@ -7280,6 +7364,8 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 1E62;
 },
 {
@@ -7495,7 +7581,7 @@ unicode = 0166;
 },
 {
 glyphname = Tcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:02 +0000";
 layers = (
 {
 components = (
@@ -7526,11 +7612,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 0164;
 },
 {
 glyphname = Tcedilla;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:02 +0000";
 layers = (
 {
 components = (
@@ -7561,11 +7649,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 0162;
 },
 {
 glyphname = Tcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:02 +0000";
 layers = (
 {
 components = (
@@ -7596,11 +7686,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 021A;
 },
 {
 glyphname = Tdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:02 +0000";
 layers = (
 {
 components = (
@@ -7631,6 +7723,8 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = T;
+rightKerningGroup = T;
 unicode = 1E6C;
 },
 {
@@ -7771,7 +7865,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -7802,11 +7896,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 00DA;
 },
 {
 glyphname = Ubreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -7837,11 +7933,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 016C;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -7872,11 +7970,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 00DB;
 },
 {
 glyphname = Udblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -7907,11 +8007,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 0214;
 },
 {
 glyphname = Udieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -7942,11 +8044,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 00DC;
 },
 {
 glyphname = Udotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -7977,11 +8081,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EE4;
 },
 {
 glyphname = Ugrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8012,11 +8118,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 00D9;
 },
 {
 glyphname = Uhungarumlaut;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8047,11 +8155,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 0170;
 },
 {
 glyphname = Uinvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8082,11 +8192,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 0216;
 },
 {
 glyphname = Umacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8117,11 +8229,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 016A;
 },
 {
 glyphname = Uogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8152,11 +8266,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 0172;
 },
 {
 glyphname = Uring;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8187,11 +8303,13 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 016E;
 },
 {
 glyphname = Utilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:30 +0000";
 layers = (
 {
 components = (
@@ -8222,6 +8340,8 @@ name = Bold;
 width = 780;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 0168;
 },
 {
@@ -8473,7 +8593,7 @@ unicode = 0057;
 },
 {
 glyphname = Wacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:49 +0000";
 layers = (
 {
 components = (
@@ -8504,11 +8624,13 @@ name = Bold;
 width = 1060;
 }
 );
+leftKerningGroup = W;
+rightKerningGroup = W;
 unicode = 1E82;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:49 +0000";
 layers = (
 {
 components = (
@@ -8539,11 +8661,13 @@ name = Bold;
 width = 1060;
 }
 );
+leftKerningGroup = W;
+rightKerningGroup = W;
 unicode = 0174;
 },
 {
 glyphname = Wdieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:49 +0000";
 layers = (
 {
 components = (
@@ -8574,11 +8698,13 @@ name = Bold;
 width = 1060;
 }
 );
+leftKerningGroup = W;
+rightKerningGroup = W;
 unicode = 1E84;
 },
 {
 glyphname = Wgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:49 +0000";
 layers = (
 {
 components = (
@@ -8609,11 +8735,13 @@ name = Bold;
 width = 1060;
 }
 );
+leftKerningGroup = W;
+rightKerningGroup = W;
 unicode = 1E80;
 },
 {
 glyphname = X;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:37:01 +0000";
 layers = (
 {
 anchors = (
@@ -8736,6 +8864,7 @@ width = 700;
 }
 );
 leftKerningGroup = X;
+rightKerningGroup = X;
 unicode = 0058;
 },
 {
@@ -8876,7 +9005,7 @@ unicode = 0059;
 },
 {
 glyphname = Yacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:59 +0000";
 layers = (
 {
 components = (
@@ -8907,11 +9036,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 00DD;
 },
 {
 glyphname = Ycircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:59 +0000";
 layers = (
 {
 components = (
@@ -8942,11 +9073,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 0176;
 },
 {
 glyphname = Ydieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:59 +0000";
 layers = (
 {
 components = (
@@ -8977,11 +9110,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 0178;
 },
 {
 glyphname = Ygrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:59 +0000";
 layers = (
 {
 components = (
@@ -9012,11 +9147,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 1EF2;
 },
 {
 glyphname = Ytilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:34:59 +0000";
 layers = (
 {
 components = (
@@ -9047,11 +9184,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 1EF8;
 },
 {
 glyphname = Z;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:35:12 +0000";
 layers = (
 {
 anchors = (
@@ -9178,11 +9317,12 @@ width = 660;
 }
 );
 leftKerningGroup = Z;
+rightKerningGroup = Z;
 unicode = 005A;
 },
 {
 glyphname = Zacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:35:27 +0000";
 layers = (
 {
 components = (
@@ -9213,11 +9353,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Z;
+rightKerningGroup = Z;
 unicode = 0179;
 },
 {
 glyphname = Zcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:35:27 +0000";
 layers = (
 {
 components = (
@@ -9248,11 +9390,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Z;
+rightKerningGroup = Z;
 unicode = 017D;
 },
 {
 glyphname = Zdotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:35:27 +0000";
 layers = (
 {
 components = (
@@ -9283,11 +9427,13 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Z;
+rightKerningGroup = Z;
 unicode = 017B;
 },
 {
 glyphname = Zdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:35:27 +0000";
 layers = (
 {
 components = (
@@ -9318,6 +9464,8 @@ name = Bold;
 width = 660;
 }
 );
+leftKerningGroup = Z;
+rightKerningGroup = Z;
 unicode = 1E92;
 },
 {
@@ -9476,7 +9624,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9507,11 +9655,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 00E1;
 },
 {
 glyphname = abreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9542,11 +9691,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 0103;
 },
 {
 glyphname = acircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9577,11 +9727,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 00E2;
 },
 {
 glyphname = adblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9612,11 +9763,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 0201;
 },
 {
 glyphname = adieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9647,11 +9799,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 00E4;
 },
 {
 glyphname = agrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9682,11 +9835,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 00E0;
 },
 {
 glyphname = ainvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9717,11 +9871,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 0203;
 },
 {
 glyphname = amacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9752,11 +9907,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9787,11 +9943,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9822,11 +9979,12 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 00E5;
 },
 {
 glyphname = aringacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 anchors = (
@@ -9891,11 +10049,12 @@ nodes = (
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 01FB;
 },
 {
 glyphname = atilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -9926,6 +10085,7 @@ name = Bold;
 width = 580;
 }
 );
+leftKerningGroup = a;
 unicode = 00E3;
 },
 {
@@ -10139,7 +10299,7 @@ unicode = 00E6;
 },
 {
 glyphname = aeacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:32 +0000";
 layers = (
 {
 components = (
@@ -10170,6 +10330,7 @@ name = Bold;
 width = 954;
 }
 );
+leftKerningGroup = a;
 unicode = 01FD;
 },
 {
@@ -10333,7 +10494,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:59:13 +0000";
 layers = (
 {
 anchors = (
@@ -10512,12 +10673,12 @@ nodes = (
 width = 540;
 }
 );
-leftKerningGroup = c;
+leftKerningGroup = o;
 unicode = 0063;
 },
 {
 glyphname = cacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -10548,11 +10709,12 @@ name = Bold;
 width = 540;
 }
 );
+leftKerningGroup = o;
 unicode = 0107;
 },
 {
 glyphname = ccaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -10583,11 +10745,12 @@ name = Bold;
 width = 540;
 }
 );
+leftKerningGroup = o;
 unicode = 010D;
 },
 {
 glyphname = ccedilla;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -10618,11 +10781,12 @@ name = Bold;
 width = 540;
 }
 );
+leftKerningGroup = o;
 unicode = 00E7;
 },
 {
 glyphname = ccircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -10653,11 +10817,12 @@ name = Bold;
 width = 540;
 }
 );
+leftKerningGroup = o;
 unicode = 0109;
 },
 {
 glyphname = cdotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -10688,11 +10853,12 @@ name = Bold;
 width = 540;
 }
 );
+leftKerningGroup = o;
 unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:51:35 +0000";
 layers = (
 {
 anchors = (
@@ -10911,6 +11077,7 @@ nodes = (
 width = 640;
 }
 );
+leftKerningGroup = o;
 unicode = 0064;
 },
 {
@@ -11030,7 +11197,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11063,12 +11230,13 @@ name = Bold;
 width = 740;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = d;
 unicode = 010F;
 },
 {
 glyphname = dcroat;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11099,11 +11267,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
 unicode = 0111;
 },
 {
 glyphname = ddotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11134,11 +11303,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
 unicode = 1E0D;
 },
 {
 glyphname = dz;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:04:02 +0000";
 layers = (
 {
 components = (
@@ -11169,6 +11339,8 @@ name = Bold;
 width = 1160;
 }
 );
+leftKerningGroup = d;
+rightKerningGroup = d;
 unicode = 01F3;
 },
 {
@@ -11208,7 +11380,7 @@ unicode = 01C6;
 },
 {
 glyphname = e;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:59:10 +0000";
 layers = (
 {
 anchors = (
@@ -11401,12 +11573,12 @@ nodes = (
 width = 600;
 }
 );
-leftKerningGroup = e;
+leftKerningGroup = o;
 unicode = 0065;
 },
 {
 glyphname = eacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11437,11 +11609,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 00E9;
 },
 {
 glyphname = ebreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11472,11 +11645,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 0115;
 },
 {
 glyphname = ecaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11507,11 +11681,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 011B;
 },
 {
 glyphname = ecircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11542,11 +11717,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 00EA;
 },
 {
 glyphname = edblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11577,11 +11753,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 0205;
 },
 {
 glyphname = edieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11612,11 +11789,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 00EB;
 },
 {
 glyphname = edotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11647,11 +11825,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 0117;
 },
 {
 glyphname = edotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11682,11 +11861,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 1EB9;
 },
 {
 glyphname = egrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11717,11 +11897,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 00E8;
 },
 {
 glyphname = einvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11752,11 +11933,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 0207;
 },
 {
 glyphname = emacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11787,11 +11969,12 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 anchors = (
@@ -11882,11 +12065,12 @@ nodes = (
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 0119;
 },
 {
 glyphname = etilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:09:50 +0000";
 layers = (
 {
 components = (
@@ -11917,6 +12101,7 @@ name = Bold;
 width = 600;
 }
 );
+leftKerningGroup = o;
 unicode = 1EBD;
 },
 {
@@ -12164,7 +12349,7 @@ unicode = 0067;
 },
 {
 glyphname = gacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:16 +0000";
 layers = (
 {
 components = (
@@ -12195,11 +12380,12 @@ name = Bold;
 width = 620;
 }
 );
+leftKerningGroup = g;
 unicode = 01F5;
 },
 {
 glyphname = gbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:16 +0000";
 layers = (
 {
 components = (
@@ -12230,11 +12416,12 @@ name = Bold;
 width = 620;
 }
 );
+leftKerningGroup = g;
 unicode = 011F;
 },
 {
 glyphname = gcircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:16 +0000";
 layers = (
 {
 components = (
@@ -12265,11 +12452,12 @@ name = Bold;
 width = 620;
 }
 );
+leftKerningGroup = g;
 unicode = 011D;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:16 +0000";
 layers = (
 {
 components = (
@@ -12300,11 +12488,12 @@ name = Bold;
 width = 620;
 }
 );
+leftKerningGroup = g;
 unicode = 0123;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:16 +0000";
 layers = (
 {
 components = (
@@ -12335,6 +12524,7 @@ name = Bold;
 width = 620;
 }
 );
+leftKerningGroup = g;
 unicode = 0121;
 },
 {
@@ -13552,7 +13742,7 @@ unicode = 006B;
 },
 {
 glyphname = kcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:41:00 +0000";
 layers = (
 {
 components = (
@@ -13583,11 +13773,12 @@ name = Bold;
 width = 580;
 }
 );
+rightKerningGroup = k;
 unicode = 0137;
 },
 {
 glyphname = kgreenlandic;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:05:31 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -13658,6 +13849,7 @@ nodes = (
 width = 580;
 }
 );
+rightKerningGroup = k;
 unicode = 0138;
 },
 {
@@ -14300,7 +14492,7 @@ unicode = 006E;
 },
 {
 glyphname = nacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:45 +0000";
 layers = (
 {
 components = (
@@ -14331,6 +14523,7 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = n;
 unicode = 0144;
 },
 {
@@ -14368,7 +14561,7 @@ unicode = 0149;
 },
 {
 glyphname = ncaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:45 +0000";
 layers = (
 {
 components = (
@@ -14399,11 +14592,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = n;
 unicode = 0148;
 },
 {
 glyphname = ncommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:45 +0000";
 layers = (
 {
 components = (
@@ -14434,11 +14628,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = n;
 unicode = 0146;
 },
 {
 glyphname = ndotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:45 +0000";
 layers = (
 {
 components = (
@@ -14469,11 +14664,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = n;
 unicode = 1E45;
 },
 {
 glyphname = eng;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:05:18 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -14566,11 +14762,12 @@ nodes = (
 width = 640;
 }
 );
+leftKerningGroup = n;
 unicode = 014B;
 },
 {
 glyphname = nj;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:05:20 +0000";
 layers = (
 {
 components = (
@@ -14601,11 +14798,12 @@ name = Bold;
 width = 920;
 }
 );
+leftKerningGroup = n;
 unicode = 01CC;
 },
 {
 glyphname = ntilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:10:45 +0000";
 layers = (
 {
 components = (
@@ -14636,11 +14834,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = n;
 unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2015-08-10 15:23:15 +0000";
+lastChange = "2015-08-11 04:57:41 +0000";
 layers = (
 {
 anchors = (
@@ -14759,7 +14958,7 @@ unicode = 006F;
 },
 {
 glyphname = oacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -14790,11 +14989,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F3;
 },
 {
 glyphname = obreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -14825,11 +15026,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 014F;
 },
 {
 glyphname = ocircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -14860,11 +15063,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F4;
 },
 {
 glyphname = odblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -14895,11 +15100,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 020D;
 },
 {
 glyphname = odieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -14930,11 +15137,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F6;
 },
 {
 glyphname = odotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -14965,11 +15174,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ECD;
 },
 {
 glyphname = ograve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15000,11 +15211,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F2;
 },
 {
 glyphname = ohungarumlaut;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15035,11 +15248,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 0151;
 },
 {
 glyphname = oinvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15070,11 +15285,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 020F;
 },
 {
 glyphname = omacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15105,11 +15322,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 014D;
 },
 {
 glyphname = oogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15140,11 +15359,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 01EB;
 },
 {
 glyphname = oslash;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 anchors = (
@@ -15201,11 +15422,13 @@ nodes = (
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F8;
 },
 {
 glyphname = oslashacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15236,11 +15459,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 01FF;
 },
 {
 glyphname = otilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:03 +0000";
 layers = (
 {
 components = (
@@ -15271,11 +15496,13 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 00F5;
 },
 {
 glyphname = oe;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:04:10 +0000";
 layers = (
 {
 anchors = (
@@ -15328,6 +15555,7 @@ name = Bold;
 width = 996;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = o;
 rightMetricsKey = e;
 unicode = 0153;
@@ -15944,7 +16172,7 @@ unicode = 0072;
 },
 {
 glyphname = racute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:29 +0000";
 layers = (
 {
 components = (
@@ -15975,11 +16203,13 @@ name = Bold;
 width = 420;
 }
 );
+leftKerningGroup = r;
+rightKerningGroup = r;
 unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:29 +0000";
 layers = (
 {
 components = (
@@ -16010,11 +16240,13 @@ name = Bold;
 width = 420;
 }
 );
+leftKerningGroup = r;
+rightKerningGroup = r;
 unicode = 0159;
 },
 {
 glyphname = rcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:29 +0000";
 layers = (
 {
 components = (
@@ -16045,11 +16277,13 @@ name = Bold;
 width = 420;
 }
 );
+leftKerningGroup = r;
+rightKerningGroup = r;
 unicode = 0157;
 },
 {
 glyphname = rdblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:29 +0000";
 layers = (
 {
 components = (
@@ -16080,11 +16314,13 @@ name = Bold;
 width = 420;
 }
 );
+leftKerningGroup = r;
+rightKerningGroup = r;
 unicode = 0211;
 },
 {
 glyphname = rdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:29 +0000";
 layers = (
 {
 components = (
@@ -16115,11 +16351,13 @@ name = Bold;
 width = 420;
 }
 );
+leftKerningGroup = r;
+rightKerningGroup = r;
 unicode = 1E5B;
 },
 {
 glyphname = rinvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:29 +0000";
 layers = (
 {
 components = (
@@ -16150,6 +16388,8 @@ name = Bold;
 width = 420;
 }
 );
+leftKerningGroup = r;
+rightKerningGroup = r;
 unicode = 0213;
 },
 {
@@ -16282,7 +16522,7 @@ unicode = 0073;
 },
 {
 glyphname = sacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:41 +0000";
 layers = (
 {
 components = (
@@ -16313,11 +16553,12 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = s;
 unicode = 015B;
 },
 {
 glyphname = scaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:41 +0000";
 layers = (
 {
 components = (
@@ -16348,11 +16589,12 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = s;
 unicode = 0161;
 },
 {
 glyphname = scedilla;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:41 +0000";
 layers = (
 {
 components = (
@@ -16383,11 +16625,12 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = s;
 unicode = 015F;
 },
 {
 glyphname = scircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:41 +0000";
 layers = (
 {
 components = (
@@ -16418,11 +16661,12 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = s;
 unicode = 015D;
 },
 {
 glyphname = scommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:41 +0000";
 layers = (
 {
 components = (
@@ -16453,11 +16697,12 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = s;
 unicode = 0219;
 },
 {
 glyphname = sdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:41 +0000";
 layers = (
 {
 components = (
@@ -16488,6 +16733,7 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = s;
 unicode = 1E63;
 },
 {
@@ -16617,7 +16863,7 @@ unicode = 00DF;
 },
 {
 glyphname = schwa;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:05:51 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -16824,7 +17070,7 @@ unicode = 0074;
 },
 {
 glyphname = tbar;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:53 +0000";
 layers = (
 {
 components = (
@@ -16855,11 +17101,12 @@ name = Bold;
 width = 400;
 }
 );
+leftKerningGroup = t;
 unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:53 +0000";
 layers = (
 {
 components = (
@@ -16892,12 +17139,13 @@ name = Bold;
 width = 500;
 }
 );
+leftKerningGroup = t;
 leftMetricsKey = t;
 unicode = 0165;
 },
 {
 glyphname = tcedilla;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:53 +0000";
 layers = (
 {
 components = (
@@ -16928,11 +17176,12 @@ name = Bold;
 width = 400;
 }
 );
+leftKerningGroup = t;
 unicode = 0163;
 },
 {
 glyphname = tcommaaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:53 +0000";
 layers = (
 {
 components = (
@@ -16963,11 +17212,12 @@ name = Bold;
 width = 400;
 }
 );
+leftKerningGroup = t;
 unicode = 021B;
 },
 {
 glyphname = tdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:11:53 +0000";
 layers = (
 {
 components = (
@@ -16998,6 +17248,7 @@ name = Bold;
 width = 400;
 }
 );
+leftKerningGroup = t;
 unicode = 1E6D;
 },
 {
@@ -17152,7 +17403,7 @@ unicode = 0075;
 },
 {
 glyphname = uacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17183,11 +17434,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 00FA;
 },
 {
 glyphname = ubreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17218,11 +17470,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 016D;
 },
 {
 glyphname = ucircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17253,11 +17506,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 00FB;
 },
 {
 glyphname = udblgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17288,11 +17542,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 0215;
 },
 {
 glyphname = udieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17323,11 +17578,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 00FC;
 },
 {
 glyphname = udotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17358,11 +17614,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 1EE5;
 },
 {
 glyphname = ugrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17393,11 +17650,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 00F9;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17428,11 +17686,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 0171;
 },
 {
 glyphname = uinvertedbreve;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17463,11 +17722,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 0217;
 },
 {
 glyphname = umacron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17498,11 +17758,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 016B;
 },
 {
 glyphname = uogonek;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17533,11 +17794,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 0173;
 },
 {
 glyphname = uring;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17568,11 +17830,12 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 016F;
 },
 {
 glyphname = utilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:07 +0000";
 layers = (
 {
 components = (
@@ -17603,6 +17866,7 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = u;
 unicode = 0169;
 },
 {
@@ -17803,7 +18067,7 @@ unicode = 0077;
 },
 {
 glyphname = wacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:30 +0000";
 layers = (
 {
 components = (
@@ -17834,11 +18098,13 @@ name = Bold;
 width = 860;
 }
 );
+leftKerningGroup = w;
+rightKerningGroup = w;
 unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:30 +0000";
 layers = (
 {
 components = (
@@ -17869,11 +18135,13 @@ name = Bold;
 width = 860;
 }
 );
+leftKerningGroup = w;
+rightKerningGroup = w;
 unicode = 0175;
 },
 {
 glyphname = wdieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:30 +0000";
 layers = (
 {
 components = (
@@ -17904,11 +18172,13 @@ name = Bold;
 width = 860;
 }
 );
+leftKerningGroup = w;
+rightKerningGroup = w;
 unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:30 +0000";
 layers = (
 {
 components = (
@@ -17939,6 +18209,8 @@ name = Bold;
 width = 860;
 }
 );
+leftKerningGroup = w;
+rightKerningGroup = w;
 unicode = 1E81;
 },
 {
@@ -18167,7 +18439,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:37 +0000";
 layers = (
 {
 components = (
@@ -18198,11 +18470,13 @@ name = Bold;
 width = 560;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 00FD;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:37 +0000";
 layers = (
 {
 components = (
@@ -18233,11 +18507,13 @@ name = Bold;
 width = 560;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 0177;
 },
 {
 glyphname = ydieresis;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:37 +0000";
 layers = (
 {
 components = (
@@ -18268,11 +18544,13 @@ name = Bold;
 width = 560;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 00FF;
 },
 {
 glyphname = ygrave;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:37 +0000";
 layers = (
 {
 components = (
@@ -18303,11 +18581,13 @@ name = Bold;
 width = 560;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 1EF3;
 },
 {
 glyphname = ytilde;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:37 +0000";
 layers = (
 {
 components = (
@@ -18338,6 +18618,8 @@ name = Bold;
 width = 560;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 1EF9;
 },
 {
@@ -18442,7 +18724,7 @@ unicode = 007A;
 },
 {
 glyphname = zacute;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:43 +0000";
 layers = (
 {
 components = (
@@ -18473,11 +18755,12 @@ name = Bold;
 width = 520;
 }
 );
+leftKerningGroup = z;
 unicode = 017A;
 },
 {
 glyphname = zcaron;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:43 +0000";
 layers = (
 {
 components = (
@@ -18508,11 +18791,12 @@ name = Bold;
 width = 520;
 }
 );
+leftKerningGroup = z;
 unicode = 017E;
 },
 {
 glyphname = zdotaccent;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:43 +0000";
 layers = (
 {
 components = (
@@ -18543,11 +18827,12 @@ name = Bold;
 width = 520;
 }
 );
+leftKerningGroup = z;
 unicode = 017C;
 },
 {
 glyphname = zdotbelow;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:12:43 +0000";
 layers = (
 {
 components = (
@@ -18578,11 +18863,12 @@ name = Bold;
 width = 520;
 }
 );
+leftKerningGroup = z;
 unicode = 1E93;
 },
 {
 glyphname = fi;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:13:04 +0000";
 layers = (
 {
 components = (
@@ -18613,13 +18899,14 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = f;
 leftMetricsKey = f;
 rightMetricsKey = i;
 unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 05:13:07 +0000";
 layers = (
 {
 components = (
@@ -18650,6 +18937,7 @@ name = Bold;
 width = 640;
 }
 );
+leftKerningGroup = f;
 leftMetricsKey = f;
 rightMetricsKey = l;
 unicode = FB02;
@@ -64743,7 +65031,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:36:30 +0000";
 layers = (
 {
 background = {
@@ -64964,6 +65252,7 @@ nodes = (
 width = 550;
 }
 );
+leftKerningGroup = parenright;
 unicode = 003F;
 },
 {
@@ -65436,7 +65725,7 @@ unicode = 007B;
 },
 {
 glyphname = braceright;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:36:26 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -65533,6 +65822,7 @@ nodes = (
 width = 418;
 }
 );
+leftKerningGroup = parenright;
 unicode = 007D;
 },
 {
@@ -65584,7 +65874,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:36:23 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -65627,6 +65917,7 @@ nodes = (
 width = 396;
 }
 );
+leftKerningGroup = parenright;
 unicode = 005D;
 },
 {
@@ -65690,7 +65981,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2015-08-07 08:45:18 +0000";
+lastChange = "2015-08-11 04:36:18 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -65745,6 +66036,7 @@ nodes = (
 width = 352;
 }
 );
+leftKerningGroup = parenright;
 unicode = 0029;
 },
 {
@@ -82683,7 +82975,6 @@ kerning = {
 "@MMK_R_AE" = -120;
 "@MMK_R_J" = -60;
 "@MMK_R_a" = -20;
-"@MMK_R_e" = -40;
 "@MMK_R_o" = -40;
 "@MMK_R_period" = -120;
 "@MMK_R_u" = -20;
@@ -82694,8 +82985,6 @@ kerning = {
 "@MMK_L_K" = {
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -20;
-"@MMK_R_c" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -40;
 "@MMK_R_u" = -20;
@@ -82740,15 +83029,16 @@ kerning = {
 "@MMK_R_W" = -20;
 "@MMK_R_Y" = -20;
 };
+"@MMK_L_S" = {
+"@MMK_R_Y" = -20;
+};
 "@MMK_L_T" = {
 "@MMK_R_A" = -40;
 "@MMK_R_AE" = -100;
 "@MMK_R_J" = -60;
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -60;
-"@MMK_R_c" = -60;
 "@MMK_R_colon" = -60;
-"@MMK_R_e" = -60;
 "@MMK_R_hyphen" = -80;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -60;
@@ -82771,9 +83061,7 @@ kerning = {
 "@MMK_R_AE" = -100;
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -40;
-"@MMK_R_c" = -40;
 "@MMK_R_colon" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_g" = -40;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_n" = -40;
@@ -82783,19 +83071,23 @@ kerning = {
 "@MMK_R_s" = -40;
 "@MMK_R_u" = -40;
 "@MMK_R_y" = -20;
+adblgrave = 0;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -60;
 "@MMK_R_AE" = -80;
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -40;
-"@MMK_R_c" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -40;
 "@MMK_R_period" = -100;
 "@MMK_R_u" = -40;
+};
+"@MMK_L_X" = {
+"@MMK_R_O" = -40;
+"@MMK_R_hyphen" = -40;
+"@MMK_R_y" = -40;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -60;
@@ -82803,13 +83095,11 @@ kerning = {
 "@MMK_R_O" = -60;
 "@MMK_R_S" = -20;
 "@MMK_R_a" = -60;
-"@MMK_R_c" = -40;
 "@MMK_R_colon" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_g" = -40;
 "@MMK_R_hyphen" = -60;
 "@MMK_R_n" = -40;
-"@MMK_R_o" = -40;
+"@MMK_R_o" = -60;
 "@MMK_R_period" = -120;
 "@MMK_R_s" = -40;
 "@MMK_R_t" = 0;
@@ -82819,12 +83109,13 @@ kerning = {
 "@MMK_R_x" = -20;
 "@MMK_R_z" = -20;
 };
+"@MMK_L_Z" = {
+"@MMK_R_hyphen" = -40;
+};
 "@MMK_L_f" = {
+"@MMK_R_parenright" = 60;
 "@MMK_R_period" = -20;
 "@MMK_R_quoteright" = 80;
-comma = -40;
-parenright = 60;
-question = 60;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_T" = -80;
@@ -82836,7 +83127,6 @@ question = 60;
 "@MMK_R_x" = -40;
 };
 "@MMK_L_k" = {
-"@MMK_R_c" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
 };
@@ -82867,13 +83157,11 @@ question = 60;
 "@MMK_R_A" = -60;
 };
 "@MMK_L_r" = {
-"@MMK_R_c" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -80;
 };
 "@MMK_L_v" = {
-"@MMK_R_c" = -20;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -60;
 };
@@ -82881,23 +83169,11 @@ question = 60;
 "@MMK_R_period" = -60;
 };
 "@MMK_L_x" = {
-"@MMK_R_c" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
 };
 "@MMK_L_y" = {
 "@MMK_R_period" = -60;
-};
-S = {
-"@MMK_R_Y" = -20;
-};
-X = {
-"@MMK_R_O" = -40;
-"@MMK_R_hyphen" = -40;
-"@MMK_R_y" = -40;
-};
-Z = {
-"@MMK_R_hyphen" = -40;
 };
 };
 "CD42366C-28E1-4C24-AB95-7D2C522D2B07" = {
@@ -82925,7 +83201,6 @@ Z = {
 "@MMK_R_AE" = -120;
 "@MMK_R_J" = -60;
 "@MMK_R_a" = -20;
-"@MMK_R_e" = -40;
 "@MMK_R_o" = -40;
 "@MMK_R_period" = -120;
 "@MMK_R_u" = -20;
@@ -82936,8 +83211,6 @@ Z = {
 "@MMK_L_K" = {
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -20;
-"@MMK_R_c" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -40;
 "@MMK_R_u" = -20;
@@ -82982,15 +83255,16 @@ Z = {
 "@MMK_R_W" = -20;
 "@MMK_R_Y" = -20;
 };
+"@MMK_L_S" = {
+"@MMK_R_Y" = -20;
+};
 "@MMK_L_T" = {
 "@MMK_R_A" = -40;
 "@MMK_R_AE" = -100;
 "@MMK_R_J" = -60;
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -60;
-"@MMK_R_c" = -60;
 "@MMK_R_colon" = -60;
-"@MMK_R_e" = -60;
 "@MMK_R_hyphen" = -80;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -60;
@@ -83013,9 +83287,7 @@ Z = {
 "@MMK_R_AE" = -100;
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -40;
-"@MMK_R_c" = -40;
 "@MMK_R_colon" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_g" = -40;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_n" = -40;
@@ -83025,19 +83297,23 @@ Z = {
 "@MMK_R_s" = -40;
 "@MMK_R_u" = -40;
 "@MMK_R_y" = -20;
+adblgrave = 0;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -60;
 "@MMK_R_AE" = -80;
 "@MMK_R_O" = -40;
 "@MMK_R_a" = -40;
-"@MMK_R_c" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -40;
 "@MMK_R_period" = -100;
 "@MMK_R_u" = -40;
+};
+"@MMK_L_X" = {
+"@MMK_R_O" = -40;
+"@MMK_R_hyphen" = -40;
+"@MMK_R_y" = -40;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -60;
@@ -83045,13 +83321,11 @@ Z = {
 "@MMK_R_O" = -60;
 "@MMK_R_S" = -20;
 "@MMK_R_a" = -60;
-"@MMK_R_c" = -40;
 "@MMK_R_colon" = -40;
-"@MMK_R_e" = -40;
 "@MMK_R_g" = -40;
 "@MMK_R_hyphen" = -60;
 "@MMK_R_n" = -40;
-"@MMK_R_o" = -40;
+"@MMK_R_o" = -60;
 "@MMK_R_period" = -120;
 "@MMK_R_s" = -40;
 "@MMK_R_t" = 0;
@@ -83061,12 +83335,13 @@ Z = {
 "@MMK_R_x" = -20;
 "@MMK_R_z" = -20;
 };
+"@MMK_L_Z" = {
+"@MMK_R_hyphen" = -40;
+};
 "@MMK_L_f" = {
+"@MMK_R_parenright" = 60;
 "@MMK_R_period" = -20;
 "@MMK_R_quoteright" = 80;
-comma = -40;
-parenright = 60;
-question = 60;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_T" = -80;
@@ -83078,7 +83353,6 @@ question = 60;
 "@MMK_R_x" = -40;
 };
 "@MMK_L_k" = {
-"@MMK_R_c" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
 };
@@ -83109,13 +83383,11 @@ question = 60;
 "@MMK_R_A" = -60;
 };
 "@MMK_L_r" = {
-"@MMK_R_c" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -80;
 };
 "@MMK_L_v" = {
-"@MMK_R_c" = -20;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -60;
 };
@@ -83123,23 +83395,11 @@ question = 60;
 "@MMK_R_period" = -60;
 };
 "@MMK_L_x" = {
-"@MMK_R_c" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
 };
 "@MMK_L_y" = {
 "@MMK_R_period" = -60;
-};
-S = {
-"@MMK_R_Y" = -20;
-};
-X = {
-"@MMK_R_O" = -40;
-"@MMK_R_hyphen" = -40;
-"@MMK_R_y" = -40;
-};
-Z = {
-"@MMK_R_hyphen" = -40;
 };
 };
 };
@@ -83162,6 +83422,6 @@ oV = 95;
 };
 };
 };
-versionMajor = 0;
-versionMinor = 29;
+versionMajor = 1;
+versionMinor = 0;
 }
