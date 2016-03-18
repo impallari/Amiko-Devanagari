@@ -7,13 +7,23 @@ derivative works.
 
 Basic Font Information
 
-Amika is a clean and utilitarian font family, specifically designed for maximum legibility at the smallest possible sizes ranges.
-They are intended for body text on the web and low resolution screens. Amika supports Latin and Devanagari scripts.
+Amiko is a clean and utilitarian Devanagari and Latin typeface family, 
+specifically designed for maximum legibility at the smallest possible 
+text sizes. It is intended for body text on the web and low resolution 
+screens. It was designed in a studio collaboration by Pablo Impallari, 
+Rodrigo Fuenzalida and Andres Torresi.
 
-To contribute to the project contact Pablo Impallari at impallari@gmail.com 
+Thank you to Pria Ravichandran, Erin McLaughlin, Girish Dalvi, 
+Dan Reynolds and all those who have shared their knowledge and 
+helped with reviews to improve Amiko.
+
+The Amiko project is led by Impallari Type, a type design foundry based 
+in Rosario, Argentina. To contribute, see 
+https://github.com/impallari/Amiko-Devanagari
 
 11 Aug 2015 (Pablo Impallari, Rodrigo Fuenzalida, Andres Torresi) Amiko v1.000
 - Initial v1 Release
+- Renamed from Amika to Amiko
 
 28 May 2015 (Pablo Impallari, Rodrigo Fuenzalida) Amika v0.048
 - Migration from FL to Glyphs in progress…
